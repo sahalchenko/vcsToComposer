@@ -21,7 +21,6 @@
                 },
                 "time": "2019-12-09T07:29:04+00:00",
                 "type": "magento2-module",
-                "installation-source": "dist",
                 "autoload": {
                     "files": [
                         "registration.php"
@@ -46,7 +45,7 @@
                     "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/v1.0.0"
                 },
                 "abandoned": true,
-                "uid": 60
+                "uid": 78
             },
             {
                 "name": "mageplaza/module-quick-flush-cache",
@@ -68,7 +67,6 @@
                 },
                 "time": "2021-04-03T05:15:56+00:00",
                 "type": "magento2-module",
-                "installation-source": "dist",
                 "autoload": {
                     "files": [
                         "registration.php"
@@ -93,7 +91,7 @@
                     "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/v4.0.0"
                 },
                 "abandoned": true,
-                "uid": 63
+                "uid": 81
             }
         ]
     }

@@ -1,32 +1,32 @@
 {
     "packages": {
-        "mageplaza/module-gdpr": [
+        "mageplaza/module-email-attachments": [
             {
-                "name": "mageplaza/module-gdpr",
+                "name": "mageplaza/module-email-attachments",
                 "version": "2.3.x-dev",
                 "version_normalized": "2.3.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
-                    "reference": "e96248fb5be7fdeb8c6e6b3627c64c6c7fa4baeb"
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "1e41d50b6044392e34b0034283c060ee82fcf2c1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/e96248fb5be7fdeb8c6e6b3627c64c6c7fa4baeb",
-                    "reference": "e96248fb5be7fdeb8c6e6b3627c64c6c7fa4baeb",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/1e41d50b6044392e34b0034283c060ee82fcf2c1",
+                    "reference": "1e41d50b6044392e34b0034283c060ee82fcf2c1",
                     "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
                 },
-                "time": "2022-03-21T04:13:40+00:00",
+                "time": "2021-08-16T10:35:35+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\Gdpr\\": ""
+                        "Mageplaza\\EmailAttachments\\": ""
                     }
                 },
                 "license": [
@@ -40,32 +40,32 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 GDPR Extensions",
+                "description": "Magento 2 Email Attachments Extension",
                 "support": {
-                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/1.4.0",
-                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v1.0.8"
                 },
-                "uid": 67
+                "abandoned": true,
+                "uid": 49
             },
             {
-                "name": "mageplaza/module-gdpr",
+                "name": "mageplaza/module-email-attachments",
                 "version": "2.4.x-dev",
                 "version_normalized": "2.4.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
-                    "reference": "bab9d1e3b9ff6d73913970395367a20a72170eab"
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "7f069a26955209caf132308f87e0f6fe07d6b7de"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/bab9d1e3b9ff6d73913970395367a20a72170eab",
-                    "reference": "bab9d1e3b9ff6d73913970395367a20a72170eab",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/7f069a26955209caf132308f87e0f6fe07d6b7de",
+                    "reference": "7f069a26955209caf132308f87e0f6fe07d6b7de",
                     "shasum": ""
                 },
                 "require": {
-                    "mageplaza/module-core": "^1.5.1"
+                    "mageplaza/module-core": "^1.4.5"
                 },
-                "time": "2023-02-28T07:57:55+00:00",
+                "time": "2023-02-20T10:14:36+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -73,7 +73,7 @@
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\Gdpr\\": ""
+                        "Mageplaza\\EmailAttachments\\": ""
                     }
                 },
                 "license": [
@@ -87,39 +87,39 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 GDPR Extensions",
+                "description": "Magento 2 Email Attachments Extension",
                 "support": {
-                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.2.2",
-                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/2.4"
                 },
-                "uid": 68
+                "abandoned": true,
+                "uid": 50
             },
             {
-                "name": "mageplaza/module-gdpr",
+                "name": "mageplaza/module-email-attachments",
                 "version": "dev-2.3-develop",
                 "version_normalized": "dev-2.3-develop",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
-                    "reference": "baf9fb1b86233ae4f2878895499ea37c58f75559"
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "20dfc3ad76410bdbbf01643b128610a1c632e1a0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/baf9fb1b86233ae4f2878895499ea37c58f75559",
-                    "reference": "baf9fb1b86233ae4f2878895499ea37c58f75559",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/20dfc3ad76410bdbbf01643b128610a1c632e1a0",
+                    "reference": "20dfc3ad76410bdbbf01643b128610a1c632e1a0",
                     "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
                 },
-                "time": "2022-03-21T04:13:04+00:00",
+                "time": "2021-08-16T10:33:40+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\Gdpr\\": ""
+                        "Mageplaza\\EmailAttachments\\": ""
                     }
                 },
                 "license": [
@@ -133,39 +133,39 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 GDPR Extensions",
+                "description": "Magento 2 Email Attachments Extension",
                 "support": {
-                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/2.3-develop",
-                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/2.3-develop"
                 },
-                "uid": 74
+                "abandoned": true,
+                "uid": 54
             },
             {
-                "name": "mageplaza/module-gdpr",
+                "name": "mageplaza/module-email-attachments",
                 "version": "dev-2.4-develop",
                 "version_normalized": "dev-2.4-develop",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
-                    "reference": "a8efcfb9f96228029e9a44fc97232041afc9100e"
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "52bace32e05d54ff339f5a800f7f9178a1cc32c4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/a8efcfb9f96228029e9a44fc97232041afc9100e",
-                    "reference": "a8efcfb9f96228029e9a44fc97232041afc9100e",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/52bace32e05d54ff339f5a800f7f9178a1cc32c4",
+                    "reference": "52bace32e05d54ff339f5a800f7f9178a1cc32c4",
                     "shasum": ""
                 },
                 "require": {
-                    "mageplaza/module-core": "^1.5.1"
+                    "mageplaza/module-core": "^1.4.5"
                 },
-                "time": "2023-02-28T07:56:21+00:00",
+                "time": "2021-08-16T10:34:19+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\Gdpr\\": ""
+                        "Mageplaza\\EmailAttachments\\": ""
                     }
                 },
                 "license": [
@@ -179,39 +179,39 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 GDPR Extensions",
+                "description": "Magento 2 Email Attachments Extension",
                 "support": {
-                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/2.4-develop",
-                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/2.4-develop"
                 },
-                "uid": 75
+                "abandoned": true,
+                "uid": 55
             },
             {
-                "name": "mageplaza/module-gdpr",
+                "name": "mageplaza/module-email-attachments",
                 "version": "dev-develop",
                 "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
-                    "reference": "d65a7133f9d69262eeac1022649a5d0bb0fe7e7c"
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "cd11548c813d77e74593dc66450ac29fbd5748b2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/d65a7133f9d69262eeac1022649a5d0bb0fe7e7c",
-                    "reference": "d65a7133f9d69262eeac1022649a5d0bb0fe7e7c",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/cd11548c813d77e74593dc66450ac29fbd5748b2",
+                    "reference": "cd11548c813d77e74593dc66450ac29fbd5748b2",
                     "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
                 },
-                "time": "2020-07-29T08:08:48+00:00",
+                "time": "2020-10-29T04:33:42+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\Gdpr\\": ""
+                        "Mageplaza\\EmailAttachments\\": ""
                     }
                 },
                 "license": [
@@ -225,39 +225,39 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 GDPR Extensions",
+                "description": "Magento 2 Email Attachments Extension",
                 "support": {
-                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/develop",
-                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/develop"
                 },
-                "uid": 76
+                "abandoned": true,
+                "uid": 56
             },
             {
-                "name": "mageplaza/module-gdpr",
+                "name": "mageplaza/module-email-attachments",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
-                    "reference": "78d1e507546d44c8fd8912678ce5435b893ba408"
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "2894348e5b097da1277484fae4d5184670b64de0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/78d1e507546d44c8fd8912678ce5435b893ba408",
-                    "reference": "78d1e507546d44c8fd8912678ce5435b893ba408",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/2894348e5b097da1277484fae4d5184670b64de0",
+                    "reference": "2894348e5b097da1277484fae4d5184670b64de0",
                     "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
                 },
-                "time": "2020-09-10T04:20:38+00:00",
+                "time": "2020-10-13T08:04:35+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\Gdpr\\": ""
+                        "Mageplaza\\EmailAttachments\\": ""
                     }
                 },
                 "license": [
@@ -271,12 +271,12 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 GDPR Extensions",
+                "description": "Magento 2 Email Attachments Extension",
                 "support": {
-                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/master",
-                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/master"
                 },
-                "uid": 77
+                "abandoned": true,
+                "uid": 57
             }
         ]
     }
