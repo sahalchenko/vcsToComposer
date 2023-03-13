@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  satis:
+    image: "vcs-to-composer:latest"
+    build:
+      context: "./image"
+      args:
+        - GIT_TOKEN=${GIT_TOKEN}
+        - GIT_REPOSITORY=${GIT_REPOSITORY}
+        - ZIP_REPOSITORY=true #If true, zip files will be created and uploaded to your repository. If false, links to resources will be generated.
+    volumes:
+      - ./extensions.txt:/app/extensions.txt:rw
+      - ./html:/app/html:rw
