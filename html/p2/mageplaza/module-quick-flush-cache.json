@@ -12,9 +12,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-quick-flush-cache/mageplaza-module-quick-flush-cache-db72b9bf19b1160800959d3f565339b59aee06d7-zip-5d3f9c.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-quick-flush-cache/zipball/db72b9bf19b1160800959d3f565339b59aee06d7",
                     "reference": "db72b9bf19b1160800959d3f565339b59aee06d7",
-                    "shasum": "87e100fc0f99b16c57836ec422a45bbd825d0955"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
@@ -58,9 +58,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-quick-flush-cache/mageplaza-module-quick-flush-cache-532534cf8c6b26eacab2382444c5b648a5aa9878-zip-17aabf.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-quick-flush-cache/zipball/532534cf8c6b26eacab2382444c5b648a5aa9878",
                     "reference": "532534cf8c6b26eacab2382444c5b648a5aa9878",
-                    "shasum": "fe8017e70239a18acc2728a24feb7b5f796e9639"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
