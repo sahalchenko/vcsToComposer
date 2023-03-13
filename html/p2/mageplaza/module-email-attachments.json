@@ -1,0 +1,570 @@
+{
+    "packages": {
+        "mageplaza/module-email-attachments": [
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "e263898cf9b6fa9613781bed3f7fda3d6215d34b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-e263898cf9b6fa9613781bed3f7fda3d6215d34b-zip-710a36.zip",
+                    "reference": "e263898cf9b6fa9613781bed3f7fda3d6215d34b",
+                    "shasum": "589d11c87b96d8b66402151d6a4fc50a08fc6ea2"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.0"
+                },
+                "time": "2018-12-03T11:59:54+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v1.0.0"
+                },
+                "abandoned": true,
+                "uid": 40
+            },
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "640bff1a9d6024e0308ec651cef28976d482d2dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-640bff1a9d6024e0308ec651cef28976d482d2dc-zip-fc8119.zip",
+                    "reference": "640bff1a9d6024e0308ec651cef28976d482d2dc",
+                    "shasum": "b60d6dcb0923f4cd0fa1dab9814957d6f2530755"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.0"
+                },
+                "time": "2018-12-18T11:21:48+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v1.0.1"
+                },
+                "abandoned": true,
+                "uid": 41
+            },
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "c2b93ec5476d4daef8996a79b90387f8c1c183ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-c2b93ec5476d4daef8996a79b90387f8c1c183ca-zip-a829e2.zip",
+                    "reference": "c2b93ec5476d4daef8996a79b90387f8c1c183ca",
+                    "shasum": "7f7539c934aad3f49dfb25d414acafdb8b191bc3"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2019-08-27T10:27:52+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v1.0.2"
+                },
+                "abandoned": true,
+                "uid": 42
+            },
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "928179625515526940de932d3a40eca0ffb5b195"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-928179625515526940de932d3a40eca0ffb5b195-zip-93c1fe.zip",
+                    "reference": "928179625515526940de932d3a40eca0ffb5b195",
+                    "shasum": "0eea05c00ac04c03b57e30ffd0725a9d5c7b7b2d"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-02-19T08:21:20+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v1.0.3"
+                },
+                "abandoned": true,
+                "uid": 43
+            },
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "1cf31fc9ee2292946d29320b575c24ca297f8828"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-1cf31fc9ee2292946d29320b575c24ca297f8828-zip-965107.zip",
+                    "reference": "1cf31fc9ee2292946d29320b575c24ca297f8828",
+                    "shasum": "79f144702b812a9e7c942329e032a60492e37f68"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-06-23T08:45:07+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/1.0.4"
+                },
+                "abandoned": true,
+                "uid": 44
+            },
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "886c25460985a7d8c092f64ffebb599cb86697af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-886c25460985a7d8c092f64ffebb599cb86697af-zip-89221a.zip",
+                    "reference": "886c25460985a7d8c092f64ffebb599cb86697af",
+                    "shasum": "84673170b05b2c29f3f0757dbd5a60085e2889f7"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-07-24T07:01:09+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v1.0.5"
+                },
+                "abandoned": true,
+                "uid": 45
+            },
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "9a0134c5df8bdcb173a62498c8516be4ba3cd06d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-9a0134c5df8bdcb173a62498c8516be4ba3cd06d-zip-fdac98.zip",
+                    "reference": "9a0134c5df8bdcb173a62498c8516be4ba3cd06d",
+                    "shasum": "f16dab716b37bebe34bd0e9cef3cdbb8ce088995"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-10-13T08:08:18+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v1.0.6"
+                },
+                "abandoned": true,
+                "uid": 46
+            },
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "4b016e91b3a49bbb62ca785b157e34ac111237c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-4b016e91b3a49bbb62ca785b157e34ac111237c6-zip-bd6375.zip",
+                    "reference": "4b016e91b3a49bbb62ca785b157e34ac111237c6",
+                    "shasum": "c06743337ee2d428b200690682b18a056e020bb2"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-05-26T04:01:40+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v1.0.7"
+                },
+                "abandoned": true,
+                "uid": 47
+            },
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "1e41d50b6044392e34b0034283c060ee82fcf2c1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-1e41d50b6044392e34b0034283c060ee82fcf2c1-zip-e2e0d6.zip",
+                    "reference": "1e41d50b6044392e34b0034283c060ee82fcf2c1",
+                    "shasum": "409c286226c49a8fba89353c37f93b33bc3438c0"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-16T10:35:35+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v1.0.8"
+                },
+                "abandoned": true,
+                "uid": 48
+            },
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "19551b0aa10ce8b7782883bc5fcafffd72f17657"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-19551b0aa10ce8b7782883bc5fcafffd72f17657-zip-5ed0b2.zip",
+                    "reference": "19551b0aa10ce8b7782883bc5fcafffd72f17657",
+                    "shasum": "2d4f6ce9e53763f330a522c6018077ddc865e619"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-11-10T08:42:20+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v4.0.0"
+                },
+                "abandoned": true,
+                "uid": 51
+            },
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "4.0.1",
+                "version_normalized": "4.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "18a1a3a3675c38ccb83b99bea415aa92dd8b07d1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-18a1a3a3675c38ccb83b99bea415aa92dd8b07d1-zip-e4de8c.zip",
+                    "reference": "18a1a3a3675c38ccb83b99bea415aa92dd8b07d1",
+                    "shasum": "d89552b3f7f553909056630f4470b1ec663f1686"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-12-31T07:50:22+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v4.0.1"
+                },
+                "abandoned": true,
+                "uid": 52
+            },
+            {
+                "name": "mageplaza/module-email-attachments",
+                "version": "4.0.2",
+                "version_normalized": "4.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "3df02b6760652d2a173dc51bee3dfb2792337602"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-email-attachments/mageplaza-module-email-attachments-3df02b6760652d2a173dc51bee3dfb2792337602-zip-090a08.zip",
+                    "reference": "3df02b6760652d2a173dc51bee3dfb2792337602",
+                    "shasum": "80a2c92623ccbe3d618b1219b354427e2c4a83ec"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-16T10:35:53+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v4.0.2"
+                },
+                "abandoned": true,
+                "uid": 53
+            }
+        ]
+    }
+}
