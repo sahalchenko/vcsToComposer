@@ -7,7 +7,7 @@ services:
       args:
         - GIT_TOKEN=${GIT_TOKEN}
         - GIT_REPOSITORY=${GIT_REPOSITORY}
-        - ZIP_REPOSITORY=true #If true, zip files will be created and uploaded to your repository. If false, links to resources will be generated.
+        - ZIP_REPOSITORY=false #If true, zip files will be created and uploaded to your repository. If false, links to resources will be generated.
     volumes:
       - ./extensions.txt:/app/extensions.txt:rw
       - ./html:/app/html:rw

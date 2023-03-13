@@ -44,11 +44,11 @@ echo "     \"format\": \"zip\"," >> $SATIS_CONF
 echo "     \"directory\": \"dist\" " >> $SATIS_CONF
 echo "  }," >> $SATIS_CONF
 fi
+echo "  \"providers-history-size\": 3," >> $SATIS_CONF
 echo "  \"require-dependencies\": false," >> $SATIS_CONF
 echo "  \"require-dev-dependencies\": false," >> $SATIS_CONF
 echo "  \"only-best-candidates\": true," >> $SATIS_CONF
 echo "  \"providers\": true," >> $SATIS_CONF
-echo "  \"providers-history-size\": 3," >> $SATIS_CONF
 echo "  \"config\": {" >> $SATIS_CONF
 echo "    \"preferred-install\": \"dist\"," >> $SATIS_CONF
 echo "    \"github-protocols\": [\"https\",\"http\"]," >> $SATIS_CONF
