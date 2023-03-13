@@ -45,7 +45,7 @@
                     "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.4.2",
                     "issues": "https://github.com/mageplaza/magento-2-reports/issues"
                 },
-                "uid": 75
+                "uid": 83
             },
             {
                 "name": "mageplaza/module-reports",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/mageplaza/magento-2-reports/tree/v4.1.4",
                     "issues": "https://github.com/mageplaza/magento-2-reports/issues"
                 },
-                "uid": 76
+                "uid": 84
             },
             {
                 "name": "mageplaza/module-reports",
@@ -138,7 +138,7 @@
                     "source": "https://github.com/mageplaza/magento-2-reports/tree/2.3-develop",
                     "issues": "https://github.com/mageplaza/magento-2-reports/issues"
                 },
-                "uid": 83
+                "uid": 91
             },
             {
                 "name": "mageplaza/module-reports",
@@ -184,7 +184,7 @@
                     "source": "https://github.com/mageplaza/magento-2-reports/tree/2.4-develop",
                     "issues": "https://github.com/mageplaza/magento-2-reports/issues"
                 },
-                "uid": 84
+                "uid": 92
             },
             {
                 "name": "mageplaza/module-reports",
@@ -230,7 +230,7 @@
                     "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.3.3",
                     "issues": "https://github.com/mageplaza/magento-2-reports/issues"
                 },
-                "uid": 85
+                "uid": 93
             }
         ]
     }
