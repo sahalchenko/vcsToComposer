@@ -19,6 +19,9 @@
         },
         "mageplaza/module-reports": {
             "sha256": "1b6a6ffced2c145466982875084eab533dae583cec08d3402693f4d47fb31a2d"
+        },
+        "swissup/module-core": {
+            "sha256": "b5901a4b246837ebf29960ee1d90fbc08d56dfe5bbf523a66572f25ca72f5966"
         }
     },
     "metadata-url": "/vcsToComposer/html/p2/%package%.json",
@@ -28,6 +31,7 @@
         "mageplaza/module-email-attachments",
         "mageplaza/module-gdpr",
         "mageplaza/module-quick-flush-cache",
-        "mageplaza/module-reports"
+        "mageplaza/module-reports",
+        "swissup/module-core"
     ]
 }
