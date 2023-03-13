@@ -3,3 +3,4 @@ https://github.com/mageplaza/magento-2-product-slider
 https://github.com/mageplaza/magento-2-delete-orders
 https://github.com/mageplaza/magento-2-reports
 https://github.com/mageplaza/magento-2-quick-flush-cache
+https://github.com/mageplaza/magento-2-email-attachments
