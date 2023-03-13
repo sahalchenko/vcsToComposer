@@ -1,0 +1,1224 @@
+{
+    "packages": {
+        "mageplaza/module-reports": {
+            "1.0.0": {
+                "name": "mageplaza/module-reports",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "b618cb337d4b96f08f9f94a2e363a8b550e0168b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-b618cb337d4b96f08f9f94a2e363a8b550e0168b-zip-471dc3.zip",
+                    "reference": "b618cb337d4b96f08f9f94a2e363a8b550e0168b",
+                    "shasum": "1d44cc7e08435ef332cd7641259a64848159c207"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.12"
+                },
+                "time": "2018-06-12T10:24:31+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.0.0",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 60
+            },
+            "1.1.0": {
+                "name": "mageplaza/module-reports",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "18974fff988467b4691af85790418541d1b3de57"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-18974fff988467b4691af85790418541d1b3de57-zip-7984f8.zip",
+                    "reference": "18974fff988467b4691af85790418541d1b3de57",
+                    "shasum": "e3c577ae47f84eecb2179ac93a92b7650a1edb9b"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.12"
+                },
+                "time": "2018-08-27T02:21:00+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.1.0",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 61
+            },
+            "1.1.1": {
+                "name": "mageplaza/module-reports",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "4901d0e233d6e6c79cce85f46412add98f86024d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-4901d0e233d6e6c79cce85f46412add98f86024d-zip-7c2f6e.zip",
+                    "reference": "4901d0e233d6e6c79cce85f46412add98f86024d",
+                    "shasum": "bb238a4f640ee24652958f539cb73520fc7fdc50"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.12"
+                },
+                "time": "2018-11-01T02:23:24+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.1.1",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 62
+            },
+            "1.2.0": {
+                "name": "mageplaza/module-reports",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "96415d794fdbf7fdb60287a326e095522258388e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-96415d794fdbf7fdb60287a326e095522258388e-zip-6162a1.zip",
+                    "reference": "96415d794fdbf7fdb60287a326e095522258388e",
+                    "shasum": "719cb2c030bdfa56e3c38b401671b264f7df30ec"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.0"
+                },
+                "time": "2019-01-30T10:41:32+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.2.0",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 63
+            },
+            "1.2.1": {
+                "name": "mageplaza/module-reports",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "cbe1851ea0084a273601750494f4eafd5c3bd360"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-cbe1851ea0084a273601750494f4eafd5c3bd360-zip-58141b.zip",
+                    "reference": "cbe1851ea0084a273601750494f4eafd5c3bd360",
+                    "shasum": "d00868c1bfb53746fd8f7df39213cdcd16420df4"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.0"
+                },
+                "time": "2019-05-20T08:36:25+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.2.1",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 64
+            },
+            "1.2.2": {
+                "name": "mageplaza/module-reports",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "20851688928a68de7c98f134da298a2877723d26"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-20851688928a68de7c98f134da298a2877723d26-zip-ecf21d.zip",
+                    "reference": "20851688928a68de7c98f134da298a2877723d26",
+                    "shasum": "c50a7a935852beceb066390ec5271656276519c7"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.4"
+                },
+                "time": "2019-06-05T10:10:23+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.2.2",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 65
+            },
+            "1.2.3": {
+                "name": "mageplaza/module-reports",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "5bb9e5b37e172530e67bab752c038976e7190254"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-5bb9e5b37e172530e67bab752c038976e7190254-zip-df272d.zip",
+                    "reference": "5bb9e5b37e172530e67bab752c038976e7190254",
+                    "shasum": "d730873eba920a4a11453d568bb2ae8cd0ba2327"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2019-12-19T09:48:51+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.2.3",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 66
+            },
+            "1.3.0": {
+                "name": "mageplaza/module-reports",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "18177c6c1d1817de8ddfd2ca2f5d4a02bde3af1a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-18177c6c1d1817de8ddfd2ca2f5d4a02bde3af1a-zip-6f96bd.zip",
+                    "reference": "18177c6c1d1817de8ddfd2ca2f5d4a02bde3af1a",
+                    "shasum": "22f8aebf4ccdc666517c0d1253a9087753b2addb"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-04-28T02:03:59+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.3.0",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 67
+            },
+            "1.3.1": {
+                "name": "mageplaza/module-reports",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "df6188cd40d6f71dfbf7d6b0b22633040c88b528"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-df6188cd40d6f71dfbf7d6b0b22633040c88b528-zip-4bdb74.zip",
+                    "reference": "df6188cd40d6f71dfbf7d6b0b22633040c88b528",
+                    "shasum": "d2737b2e79eafe207b10cece46289e5a5a5fd116"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-06-24T08:44:15+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.3.1",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 68
+            },
+            "1.3.2": {
+                "name": "mageplaza/module-reports",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "17de0f521b2bdf3da2fb77956fa9bc27ce997cef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-17de0f521b2bdf3da2fb77956fa9bc27ce997cef-zip-1b0240.zip",
+                    "reference": "17de0f521b2bdf3da2fb77956fa9bc27ce997cef",
+                    "shasum": "7b3595f6794f336fed96735f9104256996cf6424"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-07-24T07:30:59+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.3.2",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 69
+            },
+            "1.3.3": {
+                "name": "mageplaza/module-reports",
+                "version": "1.3.3",
+                "version_normalized": "1.3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "33bb0d94d962d2db3b9da6bae9f27eef9b36b2cd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-33bb0d94d962d2db3b9da6bae9f27eef9b36b2cd-zip-19fe39.zip",
+                    "reference": "33bb0d94d962d2db3b9da6bae9f27eef9b36b2cd",
+                    "shasum": "ddaf0448e7ccb8d84320c4d25b8e8ff26f2763ad"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-08-14T04:31:08+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.3.3",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 70
+            },
+            "1.3.4": {
+                "name": "mageplaza/module-reports",
+                "version": "1.3.4",
+                "version_normalized": "1.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "29208ec8aa78404fe5c99470d70036a8b0b85401"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-29208ec8aa78404fe5c99470d70036a8b0b85401-zip-173c9b.zip",
+                    "reference": "29208ec8aa78404fe5c99470d70036a8b0b85401",
+                    "shasum": "a3a9e80df60e8c347ae132b9cc3df9c5ae2127a4"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-01-20T02:20:46+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.3.4",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 71
+            },
+            "1.4.0": {
+                "name": "mageplaza/module-reports",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "74a9393ba82d86aa2e753c39e333f0e16c7761f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-74a9393ba82d86aa2e753c39e333f0e16c7761f3-zip-1898fb.zip",
+                    "reference": "74a9393ba82d86aa2e753c39e333f0e16c7761f3",
+                    "shasum": "86c6cbc53c5820023cf32bf73323a8300189788d"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-05-26T03:36:01+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.4.0",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 72
+            },
+            "1.4.1": {
+                "name": "mageplaza/module-reports",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "5f1664fecbd5b9e36b17f3d154b867cccf8b5ef0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-5f1664fecbd5b9e36b17f3d154b867cccf8b5ef0-zip-68e3c6.zip",
+                    "reference": "5f1664fecbd5b9e36b17f3d154b867cccf8b5ef0",
+                    "shasum": "7a2a43afcddde9853cab00f2e05269858d4d0418"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-09-13T04:44:14+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.4.1",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 73
+            },
+            "1.4.2": {
+                "name": "mageplaza/module-reports",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "d5966681c293ada5283c22ef7db9ff4377447b3c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-d5966681c293ada5283c22ef7db9ff4377447b3c-zip-200148.zip",
+                    "reference": "d5966681c293ada5283c22ef7db9ff4377447b3c",
+                    "shasum": "f0851b45c5f1bdf2d0945a1f6b3e99b6aec1acf5"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-12-28T09:14:29+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.4.2",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 74
+            },
+            "2.3.x-dev": {
+                "name": "mageplaza/module-reports",
+                "version": "2.3.x-dev",
+                "version_normalized": "2.3.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "d5966681c293ada5283c22ef7db9ff4377447b3c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-reports/zipball/d5966681c293ada5283c22ef7db9ff4377447b3c",
+                    "reference": "d5966681c293ada5283c22ef7db9ff4377447b3c",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-12-28T09:14:29+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.4.2",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 75
+            },
+            "2.4.x-dev": {
+                "name": "mageplaza/module-reports",
+                "version": "2.4.x-dev",
+                "version_normalized": "2.4.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "7a7bbd90ebb273fead7a9c769c9a1b0b56052dc7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-reports/zipball/7a7bbd90ebb273fead7a9c769c9a1b0b56052dc7",
+                    "reference": "7a7bbd90ebb273fead7a9c769c9a1b0b56052dc7",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.12"
+                },
+                "time": "2022-08-30T08:47:49+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v4.1.4",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 76
+            },
+            "4.0.0": {
+                "name": "mageplaza/module-reports",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "13e5f9c7310b1d43fed0d479e6dedf5c0756c80c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-13e5f9c7310b1d43fed0d479e6dedf5c0756c80c-zip-8820e8.zip",
+                    "reference": "13e5f9c7310b1d43fed0d479e6dedf5c0756c80c",
+                    "shasum": "8bf45b71563d1bc90aa210edf0947899368b9528"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-01-20T02:26:10+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v4.0.0",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 77
+            },
+            "4.1.0": {
+                "name": "mageplaza/module-reports",
+                "version": "4.1.0",
+                "version_normalized": "4.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "1b1fd3b403ed4edb88584a2d22c84af6931bdb72"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-1b1fd3b403ed4edb88584a2d22c84af6931bdb72-zip-29a9b4.zip",
+                    "reference": "1b1fd3b403ed4edb88584a2d22c84af6931bdb72",
+                    "shasum": "73e03920f1eeac415f13b55f4e40a9976d35d161"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-05-26T03:35:34+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v4.1.0",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 78
+            },
+            "4.1.1": {
+                "name": "mageplaza/module-reports",
+                "version": "4.1.1",
+                "version_normalized": "4.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "c25a72ab5e581d1e45c576b04b8c51fdc97be2f2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-c25a72ab5e581d1e45c576b04b8c51fdc97be2f2-zip-66a5e3.zip",
+                    "reference": "c25a72ab5e581d1e45c576b04b8c51fdc97be2f2",
+                    "shasum": "102ddf0bee218bc21a540be26107ed9789d560f6"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-09-13T04:44:51+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v4.1.1",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 79
+            },
+            "4.1.2": {
+                "name": "mageplaza/module-reports",
+                "version": "4.1.2",
+                "version_normalized": "4.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "ec298f9a438887bace261d616e86484474baaec6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-ec298f9a438887bace261d616e86484474baaec6-zip-bf651b.zip",
+                    "reference": "ec298f9a438887bace261d616e86484474baaec6",
+                    "shasum": "ce9788df0a3cbb5cb6eab1bcc262571940222a44"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-10-25T08:42:05+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v4.1.2",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 80
+            },
+            "4.1.3": {
+                "name": "mageplaza/module-reports",
+                "version": "4.1.3",
+                "version_normalized": "4.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "8226a0c29a2fa2ca0236a5730d6da4e0b571ac91"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-8226a0c29a2fa2ca0236a5730d6da4e0b571ac91-zip-a6c909.zip",
+                    "reference": "8226a0c29a2fa2ca0236a5730d6da4e0b571ac91",
+                    "shasum": "bb91fa02f368b7934dad8440860a329aa4dc04b1"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-12-28T09:14:07+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v4.1.3",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 81
+            },
+            "4.1.4": {
+                "name": "mageplaza/module-reports",
+                "version": "4.1.4",
+                "version_normalized": "4.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "7a7bbd90ebb273fead7a9c769c9a1b0b56052dc7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-reports/mageplaza-module-reports-7a7bbd90ebb273fead7a9c769c9a1b0b56052dc7-zip-3bfe4d.zip",
+                    "reference": "7a7bbd90ebb273fead7a9c769c9a1b0b56052dc7",
+                    "shasum": "613d855049e15f770e53f01dc2866d2598057e4f"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.12"
+                },
+                "time": "2022-08-30T08:47:49+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v4.1.4",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 82
+            },
+            "dev-2.3-develop": {
+                "name": "mageplaza/module-reports",
+                "version": "dev-2.3-develop",
+                "version_normalized": "dev-2.3-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "c09be4850097f4ece5b9d3213ffbbc865b068b3b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-reports/zipball/c09be4850097f4ece5b9d3213ffbbc865b068b3b",
+                    "reference": "c09be4850097f4ece5b9d3213ffbbc865b068b3b",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-12-28T09:11:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/2.3-develop",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 83
+            },
+            "dev-2.4-develop": {
+                "name": "mageplaza/module-reports",
+                "version": "dev-2.4-develop",
+                "version_normalized": "dev-2.4-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "ca850d221d7b7de4d89298024e4db34425fe0463"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-reports/zipball/ca850d221d7b7de4d89298024e4db34425fe0463",
+                    "reference": "ca850d221d7b7de4d89298024e4db34425fe0463",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.12"
+                },
+                "time": "2022-08-30T08:47:09+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/2.4-develop",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 84
+            },
+            "dev-master": {
+                "name": "mageplaza/module-reports",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-reports.git",
+                    "reference": "33bb0d94d962d2db3b9da6bae9f27eef9b36b2cd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-reports/zipball/33bb0d94d962d2db3b9da6bae9f27eef9b36b2cd",
+                    "reference": "33bb0d94d962d2db3b9da6bae9f27eef9b36b2cd",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-08-14T04:31:08+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Reports\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Reports Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-reports/tree/v1.3.3",
+                    "issues": "https://github.com/mageplaza/magento-2-reports/issues"
+                },
+                "uid": 85
+            }
+        }
+    }
+}

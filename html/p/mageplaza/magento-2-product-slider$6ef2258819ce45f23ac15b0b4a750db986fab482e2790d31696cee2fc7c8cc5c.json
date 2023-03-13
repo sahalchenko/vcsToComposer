@@ -1,0 +1,1240 @@
+{
+    "packages": {
+        "mageplaza/magento-2-product-slider": {
+            "1.1.3": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "49824dedb3d88d354a2422dd9c47fc6489383bd8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-49824dedb3d88d354a2422dd9c47fc6489383bd8-zip-b2cd24.zip",
+                    "reference": "49824dedb3d88d354a2422dd9c47fc6489383bd8",
+                    "shasum": "6de804e5f37613159c4016999c81bb7c1309a810"
+                },
+                "require": {
+                    "mageplaza/core-m2": "^1.3"
+                },
+                "time": "2017-04-09T05:48:38+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "hi@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Leader"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v1.1.3",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 1
+            },
+            "1.2.0": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "a31f1741150b3a289eea6744c0992f18cd5771e3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-a31f1741150b3a289eea6744c0992f18cd5771e3-zip-411eb0.zip",
+                    "reference": "a31f1741150b3a289eea6744c0992f18cd5771e3",
+                    "shasum": "14d002272bccacc5183582b4764bdfaba66b6fec"
+                },
+                "require": {
+                    "mageplaza/core-m2": "^1.3|dev-master"
+                },
+                "time": "2017-04-13T04:25:31+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "hi@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Leader"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v1.2.0",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 2
+            },
+            "1.2.1": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "a2c265237ea2ea6386cc372ab3f4059a458ecfbc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-a2c265237ea2ea6386cc372ab3f4059a458ecfbc-zip-bfdfa2.zip",
+                    "reference": "a2c265237ea2ea6386cc372ab3f4059a458ecfbc",
+                    "shasum": "46c79524a15136542066dc42ffca5c8de8f10ff5"
+                },
+                "require": {
+                    "mageplaza/module-core": "*"
+                },
+                "time": "2017-04-24T03:43:29+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "hi@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Leader"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v1.2.1",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 3
+            },
+            "1.2.2": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "edd7f34516db6c7cfcd4c8ca429aa12b4d52bf76"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-edd7f34516db6c7cfcd4c8ca429aa12b4d52bf76-zip-b0f3f1.zip",
+                    "reference": "edd7f34516db6c7cfcd4c8ca429aa12b4d52bf76",
+                    "shasum": "6d9dd71f5129a44a11c438a21a16f283d91ae9d9"
+                },
+                "require": {
+                    "mageplaza/module-core": "*"
+                },
+                "time": "2017-04-28T07:00:26+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "hi@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Leader"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v1.2.2",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 4
+            },
+            "1.2.4": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "f7811826991216c999352e3e22d9b6f817b6812f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-f7811826991216c999352e3e22d9b6f817b6812f-zip-51164f.zip",
+                    "reference": "f7811826991216c999352e3e22d9b6f817b6812f",
+                    "shasum": "a18c5b0eb9a11839d64b1430860053af372f1b66"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.10"
+                },
+                "time": "2018-07-13T15:49:24+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "hi@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Leader"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "keywords": [
+                    "bestsellers",
+                    "featured products",
+                    "magento 2",
+                    "magento 2 product slider",
+                    "mageplaza",
+                    "new products",
+                    "product",
+                    "product slider",
+                    "random products",
+                    "slider"
+                ],
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v1.2.4",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 5
+            },
+            "2.0.0": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "b2e703c7394f58b2dd0ca0b1bc0f743b6b4dfe23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-b2e703c7394f58b2dd0ca0b1bc0f743b6b4dfe23-zip-d9ca0b.zip",
+                    "reference": "b2e703c7394f58b2dd0ca0b1bc0f743b6b4dfe23",
+                    "shasum": "74994e5b80a2ea63d45e8d842844bb285964432b"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.13"
+                },
+                "time": "2018-08-02T11:52:39+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.0",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 6
+            },
+            "2.0.1": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "5d755cc7e8db103c06a71014cb4a53a927fec076"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-5d755cc7e8db103c06a71014cb4a53a927fec076-zip-28dbe6.zip",
+                    "reference": "5d755cc7e8db103c06a71014cb4a53a927fec076",
+                    "shasum": "53350f67b4d733ea3ef00f8c82d2ef6cf735b593"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.13"
+                },
+                "time": "2018-08-07T08:02:37+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.1",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 7
+            },
+            "2.0.10": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.10",
+                "version_normalized": "2.0.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "ed59f770eb760729e8fc4e47d98ce6f816aea3d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-ed59f770eb760729e8fc4e47d98ce6f816aea3d0-zip-49c74b.zip",
+                    "reference": "ed59f770eb760729e8fc4e47d98ce6f816aea3d0",
+                    "shasum": "7358243125d6c781d43bc1625e8782d4892cad3e"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-07-24T11:19:58+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.10",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 8
+            },
+            "2.0.11": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.11",
+                "version_normalized": "2.0.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "67cb8ae6d39abfcd00776e77cc5e4c2e22094fa0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-67cb8ae6d39abfcd00776e77cc5e4c2e22094fa0-zip-dd64ae.zip",
+                    "reference": "67cb8ae6d39abfcd00776e77cc5e4c2e22094fa0",
+                    "shasum": "8ae057302f95fea9cff82056300028c19a1ac78c"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-13T11:17:34+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.11",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 9
+            },
+            "2.0.2": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "914ec47cbb0c59351725880f9b442b7bfdc06685"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-914ec47cbb0c59351725880f9b442b7bfdc06685-zip-4e7d23.zip",
+                    "reference": "914ec47cbb0c59351725880f9b442b7bfdc06685",
+                    "shasum": "2c90f19a5dbf679471b9b34053b0f34a38a97b91"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.13"
+                },
+                "time": "2018-09-04T03:16:22+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.2",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 10
+            },
+            "2.0.3": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "1b88e7f029553f54fe07023116d238043de07ffb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-1b88e7f029553f54fe07023116d238043de07ffb-zip-1b7df8.zip",
+                    "reference": "1b88e7f029553f54fe07023116d238043de07ffb",
+                    "shasum": "a097ace2076af6292762c162839e28379b88a91a"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.13"
+                },
+                "time": "2019-05-03T08:35:05+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.3",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 11
+            },
+            "2.0.4": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "b7ac3d86c0eed14c56fa1232a63147b537af7fa0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-b7ac3d86c0eed14c56fa1232a63147b537af7fa0-zip-874813.zip",
+                    "reference": "b7ac3d86c0eed14c56fa1232a63147b537af7fa0",
+                    "shasum": "acd361cf8383b16809795146beb8b550b80aa20a"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.4"
+                },
+                "time": "2019-05-27T11:15:48+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.4",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 12
+            },
+            "2.0.5": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "dfcc6881d4b0592a1f32b1fc9ec90c0dccb373f9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-dfcc6881d4b0592a1f32b1fc9ec90c0dccb373f9-zip-528834.zip",
+                    "reference": "dfcc6881d4b0592a1f32b1fc9ec90c0dccb373f9",
+                    "shasum": "fc67929d088197386be15e3b73cc860539037178"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-03-04T02:57:14+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.5",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 13
+            },
+            "2.0.6": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.6",
+                "version_normalized": "2.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "5f822742858a8bb6b8d99fb831d60336d2109d7d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-5f822742858a8bb6b8d99fb831d60336d2109d7d-zip-50328e.zip",
+                    "reference": "5f822742858a8bb6b8d99fb831d60336d2109d7d",
+                    "shasum": "fa87ebd2e28c60f5a7088999c4552e744f5c62da"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-05-18T03:26:33+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.6",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 14
+            },
+            "2.0.7": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.7",
+                "version_normalized": "2.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "2104743073a76502203ef9737d6dbbe33a4d60e8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-2104743073a76502203ef9737d6dbbe33a4d60e8-zip-5ba507.zip",
+                    "reference": "2104743073a76502203ef9737d6dbbe33a4d60e8",
+                    "shasum": "a0982f34af40f9dd5b4a389557292489ea557b07"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-07-14T04:00:36+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.7",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 15
+            },
+            "2.0.8": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.8",
+                "version_normalized": "2.0.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "78bb905fec55716b349479118e23b90312ae8dcc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-78bb905fec55716b349479118e23b90312ae8dcc-zip-2f6a84.zip",
+                    "reference": "78bb905fec55716b349479118e23b90312ae8dcc",
+                    "shasum": "c2eba19ed1ad12e6ea31a065224a595766b5fa29"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-10-13T10:39:39+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.8",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 16
+            },
+            "2.0.9": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.0.9",
+                "version_normalized": "2.0.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "c0baca987510d64e264e018841e7c3a3baf4a9fa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-c0baca987510d64e264e018841e7c3a3baf4a9fa-zip-83194e.zip",
+                    "reference": "c0baca987510d64e264e018841e7c3a3baf4a9fa",
+                    "shasum": "305f534d65342dc67c04377c48d0f1b777380897"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-06-02T16:59:29+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.9",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 17
+            },
+            "2.3.x-dev": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.3.x-dev",
+                "version_normalized": "2.3.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "67cb8ae6d39abfcd00776e77cc5e4c2e22094fa0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-product-slider/zipball/67cb8ae6d39abfcd00776e77cc5e4c2e22094fa0",
+                    "reference": "67cb8ae6d39abfcd00776e77cc5e4c2e22094fa0",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-13T11:17:34+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.11",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 18
+            },
+            "2.4.x-dev": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "2.4.x-dev",
+                "version_normalized": "2.4.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "2aa5b9293b97f22f65d4b4672d1d1dab23667f5f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-product-slider/zipball/2aa5b9293b97f22f65d4b4672d1d1dab23667f5f",
+                    "reference": "2aa5b9293b97f22f65d4b4672d1d1dab23667f5f",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.5.1"
+                },
+                "time": "2023-02-08T08:20:14+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v4.0.3",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 19
+            },
+            "4.0.0": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "b3cb807a2a3cde814f90b36d2d0acf13c8cdc06c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-b3cb807a2a3cde814f90b36d2d0acf13c8cdc06c-zip-19b8ba.zip",
+                    "reference": "b3cb807a2a3cde814f90b36d2d0acf13c8cdc06c",
+                    "shasum": "e5a60766dbbf7326b83ab566664ac6d4c414b675"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-11-09T03:10:52+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v4.0.0",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 20
+            },
+            "4.0.1": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "4.0.1",
+                "version_normalized": "4.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "8501db11dfa6a477468e0bc73d4aba120bfc261f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-8501db11dfa6a477468e0bc73d4aba120bfc261f-zip-9ab104.zip",
+                    "reference": "8501db11dfa6a477468e0bc73d4aba120bfc261f",
+                    "shasum": "2cdab8bc79b6f6ef424315d363cc0ab2e08db055"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-06-02T16:47:59+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v4.0.1",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 21
+            },
+            "4.0.2": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "4.0.2",
+                "version_normalized": "4.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "719f98ad3af6ad0e8d7eca3a441b16ce1940c620"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-719f98ad3af6ad0e8d7eca3a441b16ce1940c620-zip-dba3d6.zip",
+                    "reference": "719f98ad3af6ad0e8d7eca3a441b16ce1940c620",
+                    "shasum": "6f1dffece6b722bfe5028dc76fbbc179f304fe88"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-13T11:17:50+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v4.0.2",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 22
+            },
+            "4.0.3": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "4.0.3",
+                "version_normalized": "4.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "2aa5b9293b97f22f65d4b4672d1d1dab23667f5f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/magento-2-product-slider/mageplaza-magento-2-product-slider-2aa5b9293b97f22f65d4b4672d1d1dab23667f5f-zip-7dd745.zip",
+                    "reference": "2aa5b9293b97f22f65d4b4672d1d1dab23667f5f",
+                    "shasum": "67612756e8cbd3fd796db877be65af9ad24b6598"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.5.1"
+                },
+                "time": "2023-02-08T08:20:14+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v4.0.3",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 23
+            },
+            "dev-2.3-develop": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "dev-2.3-develop",
+                "version_normalized": "dev-2.3-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "93ce23ac2ea072b9dfa88bdd9e93cdcda1daf046"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-product-slider/zipball/93ce23ac2ea072b9dfa88bdd9e93cdcda1daf046",
+                    "reference": "93ce23ac2ea072b9dfa88bdd9e93cdcda1daf046",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-13T11:16:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/2.3-develop",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 24
+            },
+            "dev-2.4-develop": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "dev-2.4-develop",
+                "version_normalized": "dev-2.4-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "f938fca99634ce22975150c5d89bdcefb07906fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-product-slider/zipball/f938fca99634ce22975150c5d89bdcefb07906fc",
+                    "reference": "f938fca99634ce22975150c5d89bdcefb07906fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.5.1"
+                },
+                "time": "2023-02-27T04:26:11+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/2.4-develop",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 25
+            },
+            "dev-master": {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-product-slider.git",
+                    "reference": "ae6cba8941260e7e4e9f4215114834dd5667b8b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-product-slider/zipball/ae6cba8941260e7e4e9f4215114834dd5667b8b6",
+                    "reference": "ae6cba8941260e7e4e9f4215114834dd5667b8b6",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-11-09T03:08:44+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-product-slider/tree/master",
+                    "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
+                },
+                "uid": 26
+            }
+        }
+    }
+}

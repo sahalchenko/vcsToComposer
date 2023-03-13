@@ -1,0 +1,609 @@
+{
+    "packages": {
+        "mageplaza/module-delete-orders": {
+            "1.0.0": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "99f30b915f707239986e949b59b6fb24a25f8cd5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-delete-orders/mageplaza-module-delete-orders-99f30b915f707239986e949b59b6fb24a25f8cd5-zip-b9d3d9.zip",
+                    "reference": "99f30b915f707239986e949b59b6fb24a25f8cd5",
+                    "shasum": "806bf0e222e731319267391a673351d0e58d2621"
+                },
+                "require": {
+                    "mageplaza/module-core": "*"
+                },
+                "time": "2018-04-11T10:02:15+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrder\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "hi@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Leader"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v1.0.0",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 27
+            },
+            "1.1.0": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "e1be9360cef20c6caa68e0616afff02265679519"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-delete-orders/mageplaza-module-delete-orders-e1be9360cef20c6caa68e0616afff02265679519-zip-1aef62.zip",
+                    "reference": "e1be9360cef20c6caa68e0616afff02265679519",
+                    "shasum": "2a3a65acaef4bf33a85806f8baa611f9e0e8a937"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.12"
+                },
+                "time": "2018-06-07T08:32:53+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v1.1.0",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 28
+            },
+            "1.1.1": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "d32acd799246883d84b76579e0847106e510f2a6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-delete-orders/mageplaza-module-delete-orders-d32acd799246883d84b76579e0847106e510f2a6-zip-da8941.zip",
+                    "reference": "d32acd799246883d84b76579e0847106e510f2a6",
+                    "shasum": "5e2ff5880edd59ced2e243acf0a045578a925258"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.13"
+                },
+                "time": "2018-09-10T01:35:14+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v1.1.1",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 29
+            },
+            "1.2.0": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "af68cab2c3a7d86c179a98a8d7aa128c5c08da32"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-delete-orders/mageplaza-module-delete-orders-af68cab2c3a7d86c179a98a8d7aa128c5c08da32-zip-40951e.zip",
+                    "reference": "af68cab2c3a7d86c179a98a8d7aa128c5c08da32",
+                    "shasum": "ab4bebf7c497d25465bc2593a5a7e6a245ad8073"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.3"
+                },
+                "time": "2019-05-22T02:09:01+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v1.2.0",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 30
+            },
+            "1.2.1": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "94f40038cac426c97391e379dd7c495ee56bee1a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-delete-orders/mageplaza-module-delete-orders-94f40038cac426c97391e379dd7c495ee56bee1a-zip-fb87be.zip",
+                    "reference": "94f40038cac426c97391e379dd7c495ee56bee1a",
+                    "shasum": "a16be4834320f147dcc2ec50d6ec48660769300d"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-02-24T10:04:17+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v1.2.1",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 31
+            },
+            "1.2.2": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "daf27e7c8f0139034415217f327bd9468786ede9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-delete-orders/mageplaza-module-delete-orders-daf27e7c8f0139034415217f327bd9468786ede9-zip-99c416.zip",
+                    "reference": "daf27e7c8f0139034415217f327bd9468786ede9",
+                    "shasum": "22304ca08394e392abc45912c447c78de2e08fee"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-16T10:07:19+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v1.2.2",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 32
+            },
+            "2.3.x-dev": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "2.3.x-dev",
+                "version_normalized": "2.3.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "daf27e7c8f0139034415217f327bd9468786ede9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-delete-orders/zipball/daf27e7c8f0139034415217f327bd9468786ede9",
+                    "reference": "daf27e7c8f0139034415217f327bd9468786ede9",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-16T10:07:19+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v1.2.2",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 33
+            },
+            "2.4.x-dev": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "2.4.x-dev",
+                "version_normalized": "2.4.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "44bc6c2d219a24b66dd4c01d20f32b1f61733360"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-delete-orders/zipball/44bc6c2d219a24b66dd4c01d20f32b1f61733360",
+                    "reference": "44bc6c2d219a24b66dd4c01d20f32b1f61733360",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-16T10:06:54+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v4.0.1",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 34
+            },
+            "4.0.0": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "ca5983ed516e58625f1a32c78faacfe2d6830f97"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-delete-orders/mageplaza-module-delete-orders-ca5983ed516e58625f1a32c78faacfe2d6830f97-zip-0ff0e5.zip",
+                    "reference": "ca5983ed516e58625f1a32c78faacfe2d6830f97",
+                    "shasum": "00b8e89e5260642a3a50f13a797fa4ce9bac97c6"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-04-02T04:28:02+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v4.0.0",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 35
+            },
+            "4.0.1": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "4.0.1",
+                "version_normalized": "4.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "44bc6c2d219a24b66dd4c01d20f32b1f61733360"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-delete-orders/mageplaza-module-delete-orders-44bc6c2d219a24b66dd4c01d20f32b1f61733360-zip-ff0d92.zip",
+                    "reference": "44bc6c2d219a24b66dd4c01d20f32b1f61733360",
+                    "shasum": "b90584970ecdc3440b546d22d15ec89effd7d097"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-16T10:06:54+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v4.0.1",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 36
+            },
+            "dev-2.3-develop": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "dev-2.3-develop",
+                "version_normalized": "dev-2.3-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "cfd0c37d80417dd38d1bf8571a9f5c6c36864e4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-delete-orders/zipball/cfd0c37d80417dd38d1bf8571a9f5c6c36864e4f",
+                    "reference": "cfd0c37d80417dd38d1bf8571a9f5c6c36864e4f",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-16T10:06:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/2.3-develop",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 37
+            },
+            "dev-2.4-develop": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "dev-2.4-develop",
+                "version_normalized": "dev-2.4-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "7c12cc6193266537aabd5e0515a1ad6ecc7e96d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-delete-orders/zipball/7c12cc6193266537aabd5e0515a1ad6ecc7e96d9",
+                    "reference": "7c12cc6193266537aabd5e0515a1ad6ecc7e96d9",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2022-11-09T06:50:05+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/2.4-develop",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 38
+            },
+            "dev-master": {
+                "name": "mageplaza/module-delete-orders",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-delete-orders.git",
+                    "reference": "89b943b2fd369614ba2662fdc9db7ab65b07fe5e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-delete-orders/zipball/89b943b2fd369614ba2662fdc9db7ab65b07fe5e",
+                    "reference": "89b943b2fd369614ba2662fdc9db7ab65b07fe5e",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-07-26T17:47:57+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\DeleteOrders\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Delete Orders extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/master",
+                    "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
+                },
+                "uid": 39
+            }
+        }
+    }
+}

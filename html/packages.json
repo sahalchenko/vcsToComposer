@@ -1,0 +1,25 @@
+{
+    "packages": [],
+    "providers-url": "/vcsToComposer/html/p/%package%$%hash%.json",
+    "providers": {
+        "mageplaza/magento-2-product-slider": {
+            "sha256": "6ef2258819ce45f23ac15b0b4a750db986fab482e2790d31696cee2fc7c8cc5c"
+        },
+        "mageplaza/module-delete-orders": {
+            "sha256": "d70ead8afd406ffd7ab01a873b6416cbea043bd883311b012c6b28b80c4dcf7a"
+        },
+        "mageplaza/module-gdpr": {
+            "sha256": "b268cf36b33d0f7c37a0ec96b1121db4b5cd20e70d9ef7fbd80bc96f845de331"
+        },
+        "mageplaza/module-reports": {
+            "sha256": "45ae7bcf8042f39d1d731b0c50571fc9311e43fe2c585c3d490db901736d84d7"
+        }
+    },
+    "metadata-url": "/vcsToComposer/html/p2/%package%.json",
+    "available-packages": [
+        "mageplaza/magento-2-product-slider",
+        "mageplaza/module-delete-orders",
+        "mageplaza/module-gdpr",
+        "mageplaza/module-reports"
+    ]
+}

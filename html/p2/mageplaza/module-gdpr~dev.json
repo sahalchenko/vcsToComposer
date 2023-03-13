@@ -1,0 +1,283 @@
+{
+    "packages": {
+        "mageplaza/module-gdpr": [
+            {
+                "name": "mageplaza/module-gdpr",
+                "version": "2.3.x-dev",
+                "version_normalized": "2.3.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
+                    "reference": "e96248fb5be7fdeb8c6e6b3627c64c6c7fa4baeb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/e96248fb5be7fdeb8c6e6b3627c64c6c7fa4baeb",
+                    "reference": "e96248fb5be7fdeb8c6e6b3627c64c6c7fa4baeb",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2022-03-21T04:13:40+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Gdpr\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 GDPR Extensions",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/1.4.0",
+                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                },
+                "uid": 49
+            },
+            {
+                "name": "mageplaza/module-gdpr",
+                "version": "2.4.x-dev",
+                "version_normalized": "2.4.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
+                    "reference": "bab9d1e3b9ff6d73913970395367a20a72170eab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/bab9d1e3b9ff6d73913970395367a20a72170eab",
+                    "reference": "bab9d1e3b9ff6d73913970395367a20a72170eab",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.5.1"
+                },
+                "time": "2023-02-28T07:57:55+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Gdpr\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 GDPR Extensions",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.2.2",
+                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                },
+                "uid": 50
+            },
+            {
+                "name": "mageplaza/module-gdpr",
+                "version": "dev-2.3-develop",
+                "version_normalized": "dev-2.3-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
+                    "reference": "baf9fb1b86233ae4f2878895499ea37c58f75559"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/baf9fb1b86233ae4f2878895499ea37c58f75559",
+                    "reference": "baf9fb1b86233ae4f2878895499ea37c58f75559",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2022-03-21T04:13:04+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Gdpr\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 GDPR Extensions",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/2.3-develop",
+                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                },
+                "uid": 56
+            },
+            {
+                "name": "mageplaza/module-gdpr",
+                "version": "dev-2.4-develop",
+                "version_normalized": "dev-2.4-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
+                    "reference": "a8efcfb9f96228029e9a44fc97232041afc9100e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/a8efcfb9f96228029e9a44fc97232041afc9100e",
+                    "reference": "a8efcfb9f96228029e9a44fc97232041afc9100e",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.5.1"
+                },
+                "time": "2023-02-28T07:56:21+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Gdpr\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 GDPR Extensions",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/2.4-develop",
+                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                },
+                "uid": 57
+            },
+            {
+                "name": "mageplaza/module-gdpr",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
+                    "reference": "d65a7133f9d69262eeac1022649a5d0bb0fe7e7c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/d65a7133f9d69262eeac1022649a5d0bb0fe7e7c",
+                    "reference": "d65a7133f9d69262eeac1022649a5d0bb0fe7e7c",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-07-29T08:08:48+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Gdpr\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 GDPR Extensions",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/develop",
+                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                },
+                "uid": 58
+            },
+            {
+                "name": "mageplaza/module-gdpr",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
+                    "reference": "78d1e507546d44c8fd8912678ce5435b893ba408"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/78d1e507546d44c8fd8912678ce5435b893ba408",
+                    "reference": "78d1e507546d44c8fd8912678ce5435b893ba408",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-09-10T04:20:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Gdpr\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 GDPR Extensions",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/master",
+                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                },
+                "uid": 59
+            }
+        ]
+    }
+}
