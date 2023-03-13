@@ -1,7 +1,7 @@
 {
     "packages": {
-        "mageplaza/module-email-attachments": [
-            {
+        "mageplaza/module-email-attachments": {
+            "1.0.0": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "1.0.0",
                 "version_normalized": "1.0.0.0",
@@ -47,7 +47,7 @@
                 "abandoned": true,
                 "uid": 40
             },
-            {
+            "1.0.1": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "1.0.1",
                 "version_normalized": "1.0.1.0",
@@ -93,7 +93,7 @@
                 "abandoned": true,
                 "uid": 41
             },
-            {
+            "1.0.2": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "1.0.2",
                 "version_normalized": "1.0.2.0",
@@ -139,7 +139,7 @@
                 "abandoned": true,
                 "uid": 42
             },
-            {
+            "1.0.3": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "1.0.3",
                 "version_normalized": "1.0.3.0",
@@ -185,7 +185,7 @@
                 "abandoned": true,
                 "uid": 43
             },
-            {
+            "1.0.4": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "1.0.4",
                 "version_normalized": "1.0.4.0",
@@ -231,7 +231,7 @@
                 "abandoned": true,
                 "uid": 44
             },
-            {
+            "1.0.5": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "1.0.5",
                 "version_normalized": "1.0.5.0",
@@ -277,7 +277,7 @@
                 "abandoned": true,
                 "uid": 45
             },
-            {
+            "1.0.6": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "1.0.6",
                 "version_normalized": "1.0.6.0",
@@ -323,7 +323,7 @@
                 "abandoned": true,
                 "uid": 46
             },
-            {
+            "1.0.7": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "1.0.7",
                 "version_normalized": "1.0.7.0",
@@ -369,7 +369,7 @@
                 "abandoned": true,
                 "uid": 47
             },
-            {
+            "1.0.8": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "1.0.8",
                 "version_normalized": "1.0.8.0",
@@ -415,7 +415,100 @@
                 "abandoned": true,
                 "uid": 48
             },
-            {
+            "2.3.x-dev": {
+                "name": "mageplaza/module-email-attachments",
+                "version": "2.3.x-dev",
+                "version_normalized": "2.3.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "1e41d50b6044392e34b0034283c060ee82fcf2c1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/1e41d50b6044392e34b0034283c060ee82fcf2c1",
+                    "reference": "1e41d50b6044392e34b0034283c060ee82fcf2c1",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-16T10:35:35+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v1.0.8"
+                },
+                "abandoned": true,
+                "uid": 49
+            },
+            "2.4.x-dev": {
+                "name": "mageplaza/module-email-attachments",
+                "version": "2.4.x-dev",
+                "version_normalized": "2.4.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "7f069a26955209caf132308f87e0f6fe07d6b7de"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/7f069a26955209caf132308f87e0f6fe07d6b7de",
+                    "reference": "7f069a26955209caf132308f87e0f6fe07d6b7de",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2023-02-20T10:14:36+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/2.4"
+                },
+                "abandoned": true,
+                "uid": 50
+            },
+            "4.0.0": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "4.0.0",
                 "version_normalized": "4.0.0.0",
@@ -461,7 +554,7 @@
                 "abandoned": true,
                 "uid": 51
             },
-            {
+            "4.0.1": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "4.0.1",
                 "version_normalized": "4.0.1.0",
@@ -507,7 +600,7 @@
                 "abandoned": true,
                 "uid": 52
             },
-            {
+            "4.0.2": {
                 "name": "mageplaza/module-email-attachments",
                 "version": "4.0.2",
                 "version_normalized": "4.0.2.0",
@@ -552,7 +645,191 @@
                 },
                 "abandoned": true,
                 "uid": 53
+            },
+            "dev-2.3-develop": {
+                "name": "mageplaza/module-email-attachments",
+                "version": "dev-2.3-develop",
+                "version_normalized": "dev-2.3-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "20dfc3ad76410bdbbf01643b128610a1c632e1a0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/20dfc3ad76410bdbbf01643b128610a1c632e1a0",
+                    "reference": "20dfc3ad76410bdbbf01643b128610a1c632e1a0",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-16T10:33:40+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/2.3-develop"
+                },
+                "abandoned": true,
+                "uid": 54
+            },
+            "dev-2.4-develop": {
+                "name": "mageplaza/module-email-attachments",
+                "version": "dev-2.4-develop",
+                "version_normalized": "dev-2.4-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "52bace32e05d54ff339f5a800f7f9178a1cc32c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/52bace32e05d54ff339f5a800f7f9178a1cc32c4",
+                    "reference": "52bace32e05d54ff339f5a800f7f9178a1cc32c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-08-16T10:34:19+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/2.4-develop"
+                },
+                "abandoned": true,
+                "uid": 55
+            },
+            "dev-develop": {
+                "name": "mageplaza/module-email-attachments",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "cd11548c813d77e74593dc66450ac29fbd5748b2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/cd11548c813d77e74593dc66450ac29fbd5748b2",
+                    "reference": "cd11548c813d77e74593dc66450ac29fbd5748b2",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-10-29T04:33:42+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/develop"
+                },
+                "abandoned": true,
+                "uid": 56
+            },
+            "dev-master": {
+                "name": "mageplaza/module-email-attachments",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-email-attachments.git",
+                    "reference": "2894348e5b097da1277484fae4d5184670b64de0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-email-attachments/zipball/2894348e5b097da1277484fae4d5184670b64de0",
+                    "reference": "2894348e5b097da1277484fae4d5184670b64de0",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-10-13T08:04:35+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Email Attachments Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/master"
+                },
+                "abandoned": true,
+                "uid": 57
             }
-        ]
+        }
     }
 }
