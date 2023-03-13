@@ -1,0 +1,377 @@
+{
+    "packages": {
+        "mageplaza/module-quick-flush-cache": {
+            "1.0.0": {
+                "name": "mageplaza/module-quick-flush-cache",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-quick-flush-cache.git",
+                    "reference": "db72b9bf19b1160800959d3f565339b59aee06d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-quick-flush-cache/mageplaza-module-quick-flush-cache-db72b9bf19b1160800959d3f565339b59aee06d7-zip-5d3f9c.zip",
+                    "reference": "db72b9bf19b1160800959d3f565339b59aee06d7",
+                    "shasum": "87e100fc0f99b16c57836ec422a45bbd825d0955"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2019-12-09T07:29:04+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\QuickFlushCache\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Quick Flush Cache Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/v1.0.0"
+                },
+                "abandoned": true,
+                "uid": 60
+            },
+            "2.3.x-dev": {
+                "name": "mageplaza/module-quick-flush-cache",
+                "version": "2.3.x-dev",
+                "version_normalized": "2.3.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-quick-flush-cache.git",
+                    "reference": "b441622704209c30bd93c6e133aea724ab4867db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-quick-flush-cache/zipball/b441622704209c30bd93c6e133aea724ab4867db",
+                    "reference": "b441622704209c30bd93c6e133aea724ab4867db",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2019-12-09T08:34:26+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\QuickFlushCache\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Quick Flush Cache Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/master"
+                },
+                "abandoned": true,
+                "uid": 61
+            },
+            "2.4.x-dev": {
+                "name": "mageplaza/module-quick-flush-cache",
+                "version": "2.4.x-dev",
+                "version_normalized": "2.4.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-quick-flush-cache.git",
+                    "reference": "0e66ae34a75007a5190d7ed97b13367511243cec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-quick-flush-cache/zipball/0e66ae34a75007a5190d7ed97b13367511243cec",
+                    "reference": "0e66ae34a75007a5190d7ed97b13367511243cec",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2023-03-09T07:58:34+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\QuickFlushCache\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Quick Flush Cache Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/2.4"
+                },
+                "abandoned": true,
+                "uid": 62
+            },
+            "4.0.0": {
+                "name": "mageplaza/module-quick-flush-cache",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-quick-flush-cache.git",
+                    "reference": "532534cf8c6b26eacab2382444c5b648a5aa9878"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-quick-flush-cache/mageplaza-module-quick-flush-cache-532534cf8c6b26eacab2382444c5b648a5aa9878-zip-17aabf.zip",
+                    "reference": "532534cf8c6b26eacab2382444c5b648a5aa9878",
+                    "shasum": "fe8017e70239a18acc2728a24feb7b5f796e9639"
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2021-04-03T05:15:56+00:00",
+                "type": "magento2-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\QuickFlushCache\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Quick Flush Cache Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/v4.0.0"
+                },
+                "abandoned": true,
+                "uid": 63
+            },
+            "dev-2.3-develop": {
+                "name": "mageplaza/module-quick-flush-cache",
+                "version": "dev-2.3-develop",
+                "version_normalized": "dev-2.3-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-quick-flush-cache.git",
+                    "reference": "b441622704209c30bd93c6e133aea724ab4867db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-quick-flush-cache/zipball/b441622704209c30bd93c6e133aea724ab4867db",
+                    "reference": "b441622704209c30bd93c6e133aea724ab4867db",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2019-12-09T08:34:26+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\QuickFlushCache\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Quick Flush Cache Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/master"
+                },
+                "abandoned": true,
+                "uid": 64
+            },
+            "dev-2.4-develop": {
+                "name": "mageplaza/module-quick-flush-cache",
+                "version": "dev-2.4-develop",
+                "version_normalized": "dev-2.4-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-quick-flush-cache.git",
+                    "reference": "b441622704209c30bd93c6e133aea724ab4867db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-quick-flush-cache/zipball/b441622704209c30bd93c6e133aea724ab4867db",
+                    "reference": "b441622704209c30bd93c6e133aea724ab4867db",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2019-12-09T08:34:26+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\QuickFlushCache\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Quick Flush Cache Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/master"
+                },
+                "abandoned": true,
+                "uid": 65
+            },
+            "dev-develop": {
+                "name": "mageplaza/module-quick-flush-cache",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-quick-flush-cache.git",
+                    "reference": "05006d40193a577688f0234004ec7f306012dc15"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-quick-flush-cache/zipball/05006d40193a577688f0234004ec7f306012dc15",
+                    "reference": "05006d40193a577688f0234004ec7f306012dc15",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2019-12-09T08:47:22+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\QuickFlushCache\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Quick Flush Cache Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/develop"
+                },
+                "abandoned": true,
+                "uid": 66
+            },
+            "dev-master": {
+                "name": "mageplaza/module-quick-flush-cache",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-quick-flush-cache.git",
+                    "reference": "b441622704209c30bd93c6e133aea724ab4867db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-quick-flush-cache/zipball/b441622704209c30bd93c6e133aea724ab4867db",
+                    "reference": "b441622704209c30bd93c6e133aea724ab4867db",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2019-12-09T08:34:26+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\QuickFlushCache\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Quick Flush Cache Extension",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/master"
+                },
+                "abandoned": true,
+                "uid": 67
+            }
+        }
+    }
+}
