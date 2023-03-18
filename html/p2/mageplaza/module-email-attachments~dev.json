@@ -45,7 +45,7 @@
                     "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/v1.0.8"
                 },
                 "abandoned": true,
-                "uid": 49
+                "uid": 293
             },
             {
                 "name": "mageplaza/module-email-attachments",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/2.4"
                 },
                 "abandoned": true,
-                "uid": 50
+                "uid": 294
             },
             {
                 "name": "mageplaza/module-email-attachments",
@@ -138,7 +138,7 @@
                     "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/2.3-develop"
                 },
                 "abandoned": true,
-                "uid": 54
+                "uid": 298
             },
             {
                 "name": "mageplaza/module-email-attachments",
@@ -184,7 +184,7 @@
                     "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/2.4-develop"
                 },
                 "abandoned": true,
-                "uid": 55
+                "uid": 299
             },
             {
                 "name": "mageplaza/module-email-attachments",
@@ -230,7 +230,7 @@
                     "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/develop"
                 },
                 "abandoned": true,
-                "uid": 56
+                "uid": 300
             },
             {
                 "name": "mageplaza/module-email-attachments",
@@ -276,7 +276,7 @@
                     "source": "https://github.com/mageplaza/magento-2-email-attachments/tree/master"
                 },
                 "abandoned": true,
-                "uid": 57
+                "uid": 301
             }
         ]
     }

@@ -2,30 +2,34 @@
     "packages": [],
     "providers-url": "/vcsToComposer/html/p/%package%$%hash%.json",
     "providers": {
+        "fastly/magento2": {
+            "sha256": "5e398ea132c7bf09f1cc8679041660a3d2fc6e4d3fd6686df424ddded78d792b"
+        },
         "mageplaza/magento-2-product-slider": {
-            "sha256": "af873a9ff0a1ca5e808ef8035c1fb1a623abfcb4ff229e3386ced88d86890f36"
+            "sha256": "1fa6e6ae2def7293e457e14f48dfcc41cd20b1fa59e418ba194ed2b8761bdb30"
         },
         "mageplaza/module-delete-orders": {
-            "sha256": "dbf544bd7a934712770847dfa44658cea9ad0f574e2945c3996c6bffe53fc673"
+            "sha256": "f28467aa4e001a20137c0c3ed7ba49a9dd37e366bd37d968cfcdac5d4494f283"
         },
         "mageplaza/module-email-attachments": {
-            "sha256": "61e07d72f5f454915bb532291a7e3cdb4afbe1cc57adc31e99bce6052c949c60"
+            "sha256": "53fe77e297394f3d046d1978d7ff73c8a5783e98282ae48334a6e7ca97434b65"
         },
         "mageplaza/module-gdpr": {
-            "sha256": "6df6d24f580c2bc5a0308219ca4dda262cbda4bf6dbbd5b7f396d34d2a942fed"
+            "sha256": "e5e208595879b83fbabb708de2cc4464e7aac09810d55d77a752cdc2672409ec"
         },
         "mageplaza/module-quick-flush-cache": {
-            "sha256": "769b3702724e3b662967481929a0143a5cc29a1d88e0f8ab33ed06e73d7d3fb2"
+            "sha256": "0bc7da7a26402214513603113e9014a5653037bd129ec2653ffb654674e19045"
         },
         "mageplaza/module-reports": {
-            "sha256": "1b6a6ffced2c145466982875084eab533dae583cec08d3402693f4d47fb31a2d"
+            "sha256": "cba0a7617c81f798b34fe30970d20a4b5f661c3d3860c114f3f81c7daf0e62e6"
         },
         "swissup/module-core": {
-            "sha256": "b5901a4b246837ebf29960ee1d90fbc08d56dfe5bbf523a66572f25ca72f5966"
+            "sha256": "f574dbe800e1c7857e3b0239c8b8d934c592f81dfb868c8b1ad44b7960932f4b"
         }
     },
     "metadata-url": "/vcsToComposer/html/p2/%package%.json",
     "available-packages": [
+        "fastly/magento2",
         "mageplaza/magento-2-product-slider",
         "mageplaza/module-delete-orders",
         "mageplaza/module-email-attachments",

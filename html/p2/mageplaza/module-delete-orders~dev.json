@@ -45,7 +45,7 @@
                     "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v1.2.2",
                     "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
                 },
-                "uid": 33
+                "uid": 277
             },
             {
                 "name": "mageplaza/module-delete-orders",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/v4.0.1",
                     "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
                 },
-                "uid": 34
+                "uid": 278
             },
             {
                 "name": "mageplaza/module-delete-orders",
@@ -138,7 +138,7 @@
                     "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/2.3-develop",
                     "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
                 },
-                "uid": 37
+                "uid": 281
             },
             {
                 "name": "mageplaza/module-delete-orders",
@@ -184,7 +184,7 @@
                     "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/2.4-develop",
                     "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
                 },
-                "uid": 38
+                "uid": 282
             },
             {
                 "name": "mageplaza/module-delete-orders",
@@ -230,7 +230,7 @@
                     "source": "https://github.com/mageplaza/magento-2-delete-orders/tree/master",
                     "issues": "https://github.com/mageplaza/magento-2-delete-orders/issues"
                 },
-                "uid": 39
+                "uid": 283
             }
         ]
     }

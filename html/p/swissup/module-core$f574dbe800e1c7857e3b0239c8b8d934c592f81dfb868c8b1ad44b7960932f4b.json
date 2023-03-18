@@ -1,7 +1,7 @@
 {
     "packages": {
-        "swissup/module-core": [
-            {
+        "swissup/module-core": {
+            "1.0.0": {
                 "name": "swissup/module-core",
                 "version": "1.0.0",
                 "version_normalized": "1.0.0.0",
@@ -39,7 +39,7 @@
                 },
                 "uid": 356
             },
-            {
+            "1.0.1": {
                 "name": "swissup/module-core",
                 "version": "1.0.1",
                 "version_normalized": "1.0.1.0",
@@ -77,7 +77,7 @@
                 },
                 "uid": 357
             },
-            {
+            "1.0.2": {
                 "name": "swissup/module-core",
                 "version": "1.0.2",
                 "version_normalized": "1.0.2.0",
@@ -115,7 +115,7 @@
                 },
                 "uid": 358
             },
-            {
+            "1.10.0": {
                 "name": "swissup/module-core",
                 "version": "1.10.0",
                 "version_normalized": "1.10.0.0",
@@ -158,7 +158,7 @@
                 },
                 "uid": 359
             },
-            {
+            "1.10.1": {
                 "name": "swissup/module-core",
                 "version": "1.10.1",
                 "version_normalized": "1.10.1.0",
@@ -201,7 +201,7 @@
                 },
                 "uid": 360
             },
-            {
+            "1.10.2": {
                 "name": "swissup/module-core",
                 "version": "1.10.2",
                 "version_normalized": "1.10.2.0",
@@ -244,7 +244,7 @@
                 },
                 "uid": 361
             },
-            {
+            "1.10.3": {
                 "name": "swissup/module-core",
                 "version": "1.10.3",
                 "version_normalized": "1.10.3.0",
@@ -287,7 +287,7 @@
                 },
                 "uid": 362
             },
-            {
+            "1.10.4": {
                 "name": "swissup/module-core",
                 "version": "1.10.4",
                 "version_normalized": "1.10.4.0",
@@ -333,7 +333,7 @@
                 },
                 "uid": 363
             },
-            {
+            "1.10.5": {
                 "name": "swissup/module-core",
                 "version": "1.10.5",
                 "version_normalized": "1.10.5.0",
@@ -379,7 +379,7 @@
                 },
                 "uid": 364
             },
-            {
+            "1.11.0": {
                 "name": "swissup/module-core",
                 "version": "1.11.0",
                 "version_normalized": "1.11.0.0",
@@ -414,7 +414,7 @@
                 },
                 "uid": 365
             },
-            {
+            "1.11.1": {
                 "name": "swissup/module-core",
                 "version": "1.11.1",
                 "version_normalized": "1.11.1.0",
@@ -449,7 +449,7 @@
                 },
                 "uid": 366
             },
-            {
+            "1.12.0": {
                 "name": "swissup/module-core",
                 "version": "1.12.0",
                 "version_normalized": "1.12.0.0",
@@ -484,7 +484,7 @@
                 },
                 "uid": 367
             },
-            {
+            "1.12.1": {
                 "name": "swissup/module-core",
                 "version": "1.12.1",
                 "version_normalized": "1.12.1.0",
@@ -519,7 +519,7 @@
                 },
                 "uid": 368
             },
-            {
+            "1.12.10": {
                 "name": "swissup/module-core",
                 "version": "1.12.10",
                 "version_normalized": "1.12.10.0",
@@ -554,7 +554,7 @@
                 },
                 "uid": 369
             },
-            {
+            "1.12.11": {
                 "name": "swissup/module-core",
                 "version": "1.12.11",
                 "version_normalized": "1.12.11.0",
@@ -589,7 +589,7 @@
                 },
                 "uid": 370
             },
-            {
+            "1.12.12": {
                 "name": "swissup/module-core",
                 "version": "1.12.12",
                 "version_normalized": "1.12.12.0",
@@ -624,7 +624,7 @@
                 },
                 "uid": 371
             },
-            {
+            "1.12.13": {
                 "name": "swissup/module-core",
                 "version": "1.12.13",
                 "version_normalized": "1.12.13.0",
@@ -659,7 +659,7 @@
                 },
                 "uid": 372
             },
-            {
+            "1.12.14": {
                 "name": "swissup/module-core",
                 "version": "1.12.14",
                 "version_normalized": "1.12.14.0",
@@ -694,7 +694,7 @@
                 },
                 "uid": 373
             },
-            {
+            "1.12.2": {
                 "name": "swissup/module-core",
                 "version": "1.12.2",
                 "version_normalized": "1.12.2.0",
@@ -729,7 +729,7 @@
                 },
                 "uid": 374
             },
-            {
+            "1.12.3": {
                 "name": "swissup/module-core",
                 "version": "1.12.3",
                 "version_normalized": "1.12.3.0",
@@ -764,7 +764,7 @@
                 },
                 "uid": 375
             },
-            {
+            "1.12.4": {
                 "name": "swissup/module-core",
                 "version": "1.12.4",
                 "version_normalized": "1.12.4.0",
@@ -799,7 +799,7 @@
                 },
                 "uid": 376
             },
-            {
+            "1.12.5": {
                 "name": "swissup/module-core",
                 "version": "1.12.5",
                 "version_normalized": "1.12.5.0",
@@ -834,7 +834,7 @@
                 },
                 "uid": 377
             },
-            {
+            "1.12.6": {
                 "name": "swissup/module-core",
                 "version": "1.12.6",
                 "version_normalized": "1.12.6.0",
@@ -869,7 +869,7 @@
                 },
                 "uid": 378
             },
-            {
+            "1.12.7": {
                 "name": "swissup/module-core",
                 "version": "1.12.7",
                 "version_normalized": "1.12.7.0",
@@ -904,7 +904,7 @@
                 },
                 "uid": 379
             },
-            {
+            "1.12.8": {
                 "name": "swissup/module-core",
                 "version": "1.12.8",
                 "version_normalized": "1.12.8.0",
@@ -939,7 +939,7 @@
                 },
                 "uid": 380
             },
-            {
+            "1.12.9": {
                 "name": "swissup/module-core",
                 "version": "1.12.9",
                 "version_normalized": "1.12.9.0",
@@ -974,7 +974,7 @@
                 },
                 "uid": 381
             },
-            {
+            "1.2.2": {
                 "name": "swissup/module-core",
                 "version": "1.2.2",
                 "version_normalized": "1.2.2.0",
@@ -1012,7 +1012,7 @@
                 },
                 "uid": 382
             },
-            {
+            "1.2.3": {
                 "name": "swissup/module-core",
                 "version": "1.2.3",
                 "version_normalized": "1.2.3.0",
@@ -1058,7 +1058,7 @@
                 },
                 "uid": 383
             },
-            {
+            "1.3.0": {
                 "name": "swissup/module-core",
                 "version": "1.3.0",
                 "version_normalized": "1.3.0.0",
@@ -1104,7 +1104,7 @@
                 },
                 "uid": 384
             },
-            {
+            "1.3.0.1": {
                 "name": "swissup/module-core",
                 "version": "1.3.0.1",
                 "version_normalized": "1.3.0.1",
@@ -1150,7 +1150,7 @@
                 },
                 "uid": 385
             },
-            {
+            "1.3.0.2": {
                 "name": "swissup/module-core",
                 "version": "1.3.0.2",
                 "version_normalized": "1.3.0.2",
@@ -1196,7 +1196,7 @@
                 },
                 "uid": 386
             },
-            {
+            "1.3.1": {
                 "name": "swissup/module-core",
                 "version": "1.3.1",
                 "version_normalized": "1.3.1.0",
@@ -1242,7 +1242,7 @@
                 },
                 "uid": 387
             },
-            {
+            "1.4.0": {
                 "name": "swissup/module-core",
                 "version": "1.4.0",
                 "version_normalized": "1.4.0.0",
@@ -1288,7 +1288,7 @@
                 },
                 "uid": 388
             },
-            {
+            "1.4.1": {
                 "name": "swissup/module-core",
                 "version": "1.4.1",
                 "version_normalized": "1.4.1.0",
@@ -1334,7 +1334,7 @@
                 },
                 "uid": 389
             },
-            {
+            "1.4.2": {
                 "name": "swissup/module-core",
                 "version": "1.4.2",
                 "version_normalized": "1.4.2.0",
@@ -1380,7 +1380,7 @@
                 },
                 "uid": 390
             },
-            {
+            "1.4.3": {
                 "name": "swissup/module-core",
                 "version": "1.4.3",
                 "version_normalized": "1.4.3.0",
@@ -1423,7 +1423,7 @@
                 },
                 "uid": 391
             },
-            {
+            "1.4.4": {
                 "name": "swissup/module-core",
                 "version": "1.4.4",
                 "version_normalized": "1.4.4.0",
@@ -1466,7 +1466,7 @@
                 },
                 "uid": 392
             },
-            {
+            "1.4.5": {
                 "name": "swissup/module-core",
                 "version": "1.4.5",
                 "version_normalized": "1.4.5.0",
@@ -1509,7 +1509,7 @@
                 },
                 "uid": 393
             },
-            {
+            "1.4.6": {
                 "name": "swissup/module-core",
                 "version": "1.4.6",
                 "version_normalized": "1.4.6.0",
@@ -1552,7 +1552,7 @@
                 },
                 "uid": 394
             },
-            {
+            "1.4.7": {
                 "name": "swissup/module-core",
                 "version": "1.4.7",
                 "version_normalized": "1.4.7.0",
@@ -1595,7 +1595,7 @@
                 },
                 "uid": 395
             },
-            {
+            "1.4.8": {
                 "name": "swissup/module-core",
                 "version": "1.4.8",
                 "version_normalized": "1.4.8.0",
@@ -1638,7 +1638,7 @@
                 },
                 "uid": 396
             },
-            {
+            "1.4.9": {
                 "name": "swissup/module-core",
                 "version": "1.4.9",
                 "version_normalized": "1.4.9.0",
@@ -1681,7 +1681,7 @@
                 },
                 "uid": 397
             },
-            {
+            "1.5.0": {
                 "name": "swissup/module-core",
                 "version": "1.5.0",
                 "version_normalized": "1.5.0.0",
@@ -1724,7 +1724,7 @@
                 },
                 "uid": 398
             },
-            {
+            "1.6.0": {
                 "name": "swissup/module-core",
                 "version": "1.6.0",
                 "version_normalized": "1.6.0.0",
@@ -1767,7 +1767,7 @@
                 },
                 "uid": 399
             },
-            {
+            "1.6.1": {
                 "name": "swissup/module-core",
                 "version": "1.6.1",
                 "version_normalized": "1.6.1.0",
@@ -1810,7 +1810,7 @@
                 },
                 "uid": 400
             },
-            {
+            "1.6.2": {
                 "name": "swissup/module-core",
                 "version": "1.6.2",
                 "version_normalized": "1.6.2.0",
@@ -1853,7 +1853,7 @@
                 },
                 "uid": 401
             },
-            {
+            "1.7.0": {
                 "name": "swissup/module-core",
                 "version": "1.7.0",
                 "version_normalized": "1.7.0.0",
@@ -1896,7 +1896,7 @@
                 },
                 "uid": 402
             },
-            {
+            "1.7.1": {
                 "name": "swissup/module-core",
                 "version": "1.7.1",
                 "version_normalized": "1.7.1.0",
@@ -1939,7 +1939,7 @@
                 },
                 "uid": 403
             },
-            {
+            "1.7.2": {
                 "name": "swissup/module-core",
                 "version": "1.7.2",
                 "version_normalized": "1.7.2.0",
@@ -1982,7 +1982,7 @@
                 },
                 "uid": 404
             },
-            {
+            "1.7.3": {
                 "name": "swissup/module-core",
                 "version": "1.7.3",
                 "version_normalized": "1.7.3.0",
@@ -2025,7 +2025,7 @@
                 },
                 "uid": 405
             },
-            {
+            "1.8.0": {
                 "name": "swissup/module-core",
                 "version": "1.8.0",
                 "version_normalized": "1.8.0.0",
@@ -2068,7 +2068,7 @@
                 },
                 "uid": 406
             },
-            {
+            "1.8.1": {
                 "name": "swissup/module-core",
                 "version": "1.8.1",
                 "version_normalized": "1.8.1.0",
@@ -2111,7 +2111,7 @@
                 },
                 "uid": 407
             },
-            {
+            "1.8.2": {
                 "name": "swissup/module-core",
                 "version": "1.8.2",
                 "version_normalized": "1.8.2.0",
@@ -2154,7 +2154,7 @@
                 },
                 "uid": 408
             },
-            {
+            "1.8.3": {
                 "name": "swissup/module-core",
                 "version": "1.8.3",
                 "version_normalized": "1.8.3.0",
@@ -2197,7 +2197,7 @@
                 },
                 "uid": 409
             },
-            {
+            "1.8.4": {
                 "name": "swissup/module-core",
                 "version": "1.8.4",
                 "version_normalized": "1.8.4.0",
@@ -2240,7 +2240,7 @@
                 },
                 "uid": 410
             },
-            {
+            "1.8.5": {
                 "name": "swissup/module-core",
                 "version": "1.8.5",
                 "version_normalized": "1.8.5.0",
@@ -2283,7 +2283,7 @@
                 },
                 "uid": 411
             },
-            {
+            "1.8.6": {
                 "name": "swissup/module-core",
                 "version": "1.8.6",
                 "version_normalized": "1.8.6.0",
@@ -2326,7 +2326,7 @@
                 },
                 "uid": 412
             },
-            {
+            "1.8.7": {
                 "name": "swissup/module-core",
                 "version": "1.8.7",
                 "version_normalized": "1.8.7.0",
@@ -2369,7 +2369,7 @@
                 },
                 "uid": 413
             },
-            {
+            "1.9.0": {
                 "name": "swissup/module-core",
                 "version": "1.9.0",
                 "version_normalized": "1.9.0.0",
@@ -2411,7 +2411,78 @@
                     "issues": "https://github.com/swissup/module-core/issues"
                 },
                 "uid": 414
+            },
+            "dev-master": {
+                "name": "swissup/module-core",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/swissup/module-core.git",
+                    "reference": "66d6b8f0bcc3b1dc742845f5e62e1a4b34ac4411"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/swissup/module-core/zipball/66d6b8f0bcc3b1dc742845f5e62e1a4b34ac4411",
+                    "reference": "66d6b8f0bcc3b1dc742845f5e62e1a4b34ac4411",
+                    "shasum": ""
+                },
+                "time": "2023-03-06T11:38:16+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Swissup\\Core\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Swissup core module. It's purpose is to add Swissup menu and config entries",
+                "support": {
+                    "source": "https://github.com/swissup/module-core/tree/1.12.14",
+                    "issues": "https://github.com/swissup/module-core/issues"
+                },
+                "uid": 415
+            },
+            "dev-virtualcheck": {
+                "name": "swissup/module-core",
+                "version": "dev-virtualcheck",
+                "version_normalized": "dev-virtualcheck",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/swissup/module-core.git",
+                    "reference": "2927db78f8d97659921fc6ee39a52395bca4903b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/swissup/module-core/zipball/2927db78f8d97659921fc6ee39a52395bca4903b",
+                    "reference": "2927db78f8d97659921fc6ee39a52395bca4903b",
+                    "shasum": ""
+                },
+                "time": "2022-12-29T14:58:03+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Swissup\\Core\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Swissup core module. It's purpose is to add Swissup menu and config entries",
+                "support": {
+                    "source": "https://github.com/swissup/module-core/tree/virtualcheck",
+                    "issues": "https://github.com/swissup/module-core/issues"
+                },
+                "uid": 416
             }
-        ]
+        }
     }
 }

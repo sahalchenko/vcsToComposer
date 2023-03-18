@@ -35,7 +35,7 @@
                     "source": "https://github.com/swissup/module-core/tree/1.12.14",
                     "issues": "https://github.com/swissup/module-core/issues"
                 },
-                "uid": 171
+                "uid": 415
             },
             {
                 "name": "swissup/module-core",
@@ -70,7 +70,7 @@
                     "source": "https://github.com/swissup/module-core/tree/virtualcheck",
                     "issues": "https://github.com/swissup/module-core/issues"
                 },
-                "uid": 172
+                "uid": 416
             }
         ]
     }

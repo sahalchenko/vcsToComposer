@@ -45,7 +45,7 @@
                     "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v2.0.11",
                     "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
                 },
-                "uid": 18
+                "uid": 262
             },
             {
                 "name": "mageplaza/magento-2-product-slider",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/mageplaza/magento-2-product-slider/tree/v4.0.3",
                     "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
                 },
-                "uid": 19
+                "uid": 263
             },
             {
                 "name": "mageplaza/magento-2-product-slider",
@@ -138,7 +138,7 @@
                     "source": "https://github.com/mageplaza/magento-2-product-slider/tree/2.3-develop",
                     "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
                 },
-                "uid": 24
+                "uid": 268
             },
             {
                 "name": "mageplaza/magento-2-product-slider",
@@ -184,7 +184,7 @@
                     "source": "https://github.com/mageplaza/magento-2-product-slider/tree/2.4-develop",
                     "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
                 },
-                "uid": 25
+                "uid": 269
             },
             {
                 "name": "mageplaza/magento-2-product-slider",
@@ -230,7 +230,7 @@
                     "source": "https://github.com/mageplaza/magento-2-product-slider/tree/master",
                     "issues": "https://github.com/mageplaza/magento-2-product-slider/issues"
                 },
-                "uid": 26
+                "uid": 270
             }
         ]
     }
