@@ -12,9 +12,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-6e7b630f51cd762c2a83539e16f657867b090df9-zip-1652d6.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/6e7b630f51cd762c2a83539e16f657867b090df9",
                     "reference": "6e7b630f51cd762c2a83539e16f657867b090df9",
-                    "shasum": "1b40ebb8ba3ffbbefac10c90ebb61343322b7d09"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.3.11"
@@ -45,7 +45,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v1.0.0",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 58
+                "uid": 302
             },
             "1.1.0": {
                 "name": "mageplaza/module-gdpr",
@@ -58,9 +58,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-594b6696181b99ac04422aedab395ddbfd5d4a2f-zip-fbdcc2.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/594b6696181b99ac04422aedab395ddbfd5d4a2f",
                     "reference": "594b6696181b99ac04422aedab395ddbfd5d4a2f",
-                    "shasum": "a5e041b410a0468855ce34b3b787642365490b01"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.3.11"
@@ -91,7 +91,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v1.1.0",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 59
+                "uid": 303
             },
             "1.2.0": {
                 "name": "mageplaza/module-gdpr",
@@ -104,9 +104,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-73fb55118ab2fc78fde4421d75428e2a56a86d10-zip-fe2a5f.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/73fb55118ab2fc78fde4421d75428e2a56a86d10",
                     "reference": "73fb55118ab2fc78fde4421d75428e2a56a86d10",
-                    "shasum": "0853af828f97fe3e9f34847dd876f48e1daadc88"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.3.11"
@@ -137,7 +137,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v1.2.0",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 60
+                "uid": 304
             },
             "1.2.1": {
                 "name": "mageplaza/module-gdpr",
@@ -150,9 +150,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-574cb63583e501c29d592fb5963dc70eb427eaa6-zip-d8a9b3.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/574cb63583e501c29d592fb5963dc70eb427eaa6",
                     "reference": "574cb63583e501c29d592fb5963dc70eb427eaa6",
-                    "shasum": "4508c06f0ba66a442444300e2d9ab08c2ce2793c"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.0"
@@ -183,7 +183,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v1.2.1",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 61
+                "uid": 305
             },
             "1.2.2": {
                 "name": "mageplaza/module-gdpr",
@@ -196,9 +196,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-8c3f7e86a49034c3b12ddd0b66e2d561b43b859f-zip-8bb253.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/8c3f7e86a49034c3b12ddd0b66e2d561b43b859f",
                     "reference": "8c3f7e86a49034c3b12ddd0b66e2d561b43b859f",
-                    "shasum": "5bd171e85f4159e11d04ce8f03954932f2f2db63"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.4"
@@ -229,7 +229,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v1.2.2",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 62
+                "uid": 306
             },
             "1.2.3": {
                 "name": "mageplaza/module-gdpr",
@@ -242,9 +242,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-2a9ead81f2745eedaac95fe3b2f1e3fb0bde00f2-zip-9c92a9.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/2a9ead81f2745eedaac95fe3b2f1e3fb0bde00f2",
                     "reference": "2a9ead81f2745eedaac95fe3b2f1e3fb0bde00f2",
-                    "shasum": "d6f635d4192d77fbef48477fc483ecfe0660b857"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
@@ -275,7 +275,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v1.2.3",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 63
+                "uid": 307
             },
             "1.2.4": {
                 "name": "mageplaza/module-gdpr",
@@ -288,9 +288,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-cb1d07801f16333249d0018d4cda8a4ec735615e-zip-b3952b.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/cb1d07801f16333249d0018d4cda8a4ec735615e",
                     "reference": "cb1d07801f16333249d0018d4cda8a4ec735615e",
-                    "shasum": "1324b55fdbd1adfb838af70d48667ebc2279e8de"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
@@ -321,7 +321,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/1.2.4",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 64
+                "uid": 308
             },
             "1.3.0": {
                 "name": "mageplaza/module-gdpr",
@@ -334,9 +334,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-6d5f269f885adfbda55e78d0a5857732e79ffbdb-zip-68e3d7.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/6d5f269f885adfbda55e78d0a5857732e79ffbdb",
                     "reference": "6d5f269f885adfbda55e78d0a5857732e79ffbdb",
-                    "shasum": "24d1923e2d5bcc931ef5f7f08987f164580e9595"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
@@ -367,7 +367,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v1.3.0",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 65
+                "uid": 309
             },
             "1.4.0": {
                 "name": "mageplaza/module-gdpr",
@@ -380,9 +380,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-e96248fb5be7fdeb8c6e6b3627c64c6c7fa4baeb-zip-e00c46.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/e96248fb5be7fdeb8c6e6b3627c64c6c7fa4baeb",
                     "reference": "e96248fb5be7fdeb8c6e6b3627c64c6c7fa4baeb",
-                    "shasum": "901e3cc13181dd5143b2acd6634b884eeb15eebc"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
@@ -413,7 +413,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/1.4.0",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 66
+                "uid": 310
             },
             "2.3.x-dev": {
                 "name": "mageplaza/module-gdpr",
@@ -459,7 +459,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/1.4.0",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 67
+                "uid": 311
             },
             "2.4.x-dev": {
                 "name": "mageplaza/module-gdpr",
@@ -468,18 +468,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/mageplaza/magento-2-gdpr.git",
-                    "reference": "bab9d1e3b9ff6d73913970395367a20a72170eab"
+                    "reference": "ac42095ca7c4fc093c8c6c7f34a17cced1668df1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/bab9d1e3b9ff6d73913970395367a20a72170eab",
-                    "reference": "bab9d1e3b9ff6d73913970395367a20a72170eab",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/ac42095ca7c4fc093c8c6c7f34a17cced1668df1",
+                    "reference": "ac42095ca7c4fc093c8c6c7f34a17cced1668df1",
                     "shasum": ""
                 },
                 "require": {
-                    "mageplaza/module-core": "^1.5.1"
+                    "mageplaza/module-core": "^1.5.2"
                 },
-                "time": "2023-02-28T07:57:55+00:00",
+                "time": "2023-04-05T07:32:30+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -503,10 +503,10 @@
                 ],
                 "description": "Magento 2 GDPR Extensions",
                 "support": {
-                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.2.2",
+                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.2.3",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 68
+                "uid": 312
             },
             "4.0.0": {
                 "name": "mageplaza/module-gdpr",
@@ -519,9 +519,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-15407be87a2849d5448749e3af954b0de3e7109a-zip-42ca32.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/15407be87a2849d5448749e3af954b0de3e7109a",
                     "reference": "15407be87a2849d5448749e3af954b0de3e7109a",
-                    "shasum": "42b6e59e55419b03350b054b268f0b714c1e9e85"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
@@ -552,7 +552,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.0.0",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 69
+                "uid": 313
             },
             "4.1.0": {
                 "name": "mageplaza/module-gdpr",
@@ -565,9 +565,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-7940476374677ddb22f05d7667604f55ba1e397b-zip-f6e355.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/7940476374677ddb22f05d7667604f55ba1e397b",
                     "reference": "7940476374677ddb22f05d7667604f55ba1e397b",
-                    "shasum": "9689a2e1e93952f6b059cb406afb84684b4c5d22"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
@@ -598,7 +598,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.1.0",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 70
+                "uid": 314
             },
             "4.2.0": {
                 "name": "mageplaza/module-gdpr",
@@ -611,9 +611,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-d23c066d2a5ee248705ef0e6d263c2093d2e86f6-zip-1e7938.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/d23c066d2a5ee248705ef0e6d263c2093d2e86f6",
                     "reference": "d23c066d2a5ee248705ef0e6d263c2093d2e86f6",
-                    "shasum": "d2468765489d6981b95dfccd06194adf092c76f4"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.5"
@@ -644,7 +644,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.2.0",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 71
+                "uid": 315
             },
             "4.2.1": {
                 "name": "mageplaza/module-gdpr",
@@ -657,9 +657,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-eb4db1ec23afe37248ed67028c38cf66331fbff5-zip-0c971a.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/eb4db1ec23afe37248ed67028c38cf66331fbff5",
                     "reference": "eb4db1ec23afe37248ed67028c38cf66331fbff5",
-                    "shasum": "349ec6c69f638878be89a92b7887b203808a3125"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.12"
@@ -690,7 +690,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.2.1",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 72
+                "uid": 316
             },
             "4.2.2": {
                 "name": "mageplaza/module-gdpr",
@@ -703,9 +703,9 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://sarootua.github.io/vcsToComposer/html/dist/mageplaza/module-gdpr/mageplaza-module-gdpr-bab9d1e3b9ff6d73913970395367a20a72170eab-zip-16c261.zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/bab9d1e3b9ff6d73913970395367a20a72170eab",
                     "reference": "bab9d1e3b9ff6d73913970395367a20a72170eab",
-                    "shasum": "d13d741f92e9bde57381c4cca872eb84f1e0bd45"
+                    "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.5.1"
@@ -736,7 +736,53 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.2.2",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 73
+                "uid": 317
+            },
+            "4.2.3": {
+                "name": "mageplaza/module-gdpr",
+                "version": "4.2.3",
+                "version_normalized": "4.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
+                    "reference": "ac42095ca7c4fc093c8c6c7f34a17cced1668df1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/ac42095ca7c4fc093c8c6c7f34a17cced1668df1",
+                    "reference": "ac42095ca7c4fc093c8c6c7f34a17cced1668df1",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.5.2"
+                },
+                "time": "2023-04-05T07:32:30+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Gdpr\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 GDPR Extensions",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.2.3",
+                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                },
+                "uid": 318
             },
             "dev-2.3-develop": {
                 "name": "mageplaza/module-gdpr",
@@ -782,7 +828,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/2.3-develop",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 74
+                "uid": 319
             },
             "dev-2.4-develop": {
                 "name": "mageplaza/module-gdpr",
@@ -791,18 +837,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/mageplaza/magento-2-gdpr.git",
-                    "reference": "a8efcfb9f96228029e9a44fc97232041afc9100e"
+                    "reference": "887c47eeed75263f4b628d30b7456dcbc4db777e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/a8efcfb9f96228029e9a44fc97232041afc9100e",
-                    "reference": "a8efcfb9f96228029e9a44fc97232041afc9100e",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/887c47eeed75263f4b628d30b7456dcbc4db777e",
+                    "reference": "887c47eeed75263f4b628d30b7456dcbc4db777e",
                     "shasum": ""
                 },
                 "require": {
-                    "mageplaza/module-core": "^1.5.1"
+                    "mageplaza/module-core": "^1.5.2"
                 },
-                "time": "2023-02-28T07:56:21+00:00",
+                "time": "2023-04-05T07:26:43+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -828,7 +874,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/2.4-develop",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 75
+                "uid": 320
             },
             "dev-develop": {
                 "name": "mageplaza/module-gdpr",
@@ -874,7 +920,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/develop",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 76
+                "uid": 321
             },
             "dev-master": {
                 "name": "mageplaza/module-gdpr",
@@ -920,7 +966,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/master",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 77
+                "uid": 322
             }
         }
     }

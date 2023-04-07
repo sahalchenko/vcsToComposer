@@ -54,18 +54,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/mageplaza/magento-2-gdpr.git",
-                    "reference": "bab9d1e3b9ff6d73913970395367a20a72170eab"
+                    "reference": "ac42095ca7c4fc093c8c6c7f34a17cced1668df1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/bab9d1e3b9ff6d73913970395367a20a72170eab",
-                    "reference": "bab9d1e3b9ff6d73913970395367a20a72170eab",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/ac42095ca7c4fc093c8c6c7f34a17cced1668df1",
+                    "reference": "ac42095ca7c4fc093c8c6c7f34a17cced1668df1",
                     "shasum": ""
                 },
                 "require": {
-                    "mageplaza/module-core": "^1.5.1"
+                    "mageplaza/module-core": "^1.5.2"
                 },
-                "time": "2023-02-28T07:57:55+00:00",
+                "time": "2023-04-05T07:32:30+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -89,7 +89,7 @@
                 ],
                 "description": "Magento 2 GDPR Extensions",
                 "support": {
-                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.2.2",
+                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.2.3",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
                 "uid": 312
@@ -138,7 +138,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/2.3-develop",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 318
+                "uid": 319
             },
             {
                 "name": "mageplaza/module-gdpr",
@@ -147,18 +147,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/mageplaza/magento-2-gdpr.git",
-                    "reference": "a8efcfb9f96228029e9a44fc97232041afc9100e"
+                    "reference": "887c47eeed75263f4b628d30b7456dcbc4db777e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/a8efcfb9f96228029e9a44fc97232041afc9100e",
-                    "reference": "a8efcfb9f96228029e9a44fc97232041afc9100e",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/887c47eeed75263f4b628d30b7456dcbc4db777e",
+                    "reference": "887c47eeed75263f4b628d30b7456dcbc4db777e",
                     "shasum": ""
                 },
                 "require": {
-                    "mageplaza/module-core": "^1.5.1"
+                    "mageplaza/module-core": "^1.5.2"
                 },
-                "time": "2023-02-28T07:56:21+00:00",
+                "time": "2023-04-05T07:26:43+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -184,7 +184,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/2.4-develop",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 319
+                "uid": 320
             },
             {
                 "name": "mageplaza/module-gdpr",
@@ -230,7 +230,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/develop",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 320
+                "uid": 321
             },
             {
                 "name": "mageplaza/module-gdpr",
@@ -276,7 +276,7 @@
                     "source": "https://github.com/mageplaza/magento-2-gdpr/tree/master",
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
-                "uid": 321
+                "uid": 322
             }
         ]
     }

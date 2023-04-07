@@ -3,7 +3,7 @@
     "providers-url": "/vcsToComposer/html/p/%package%$%hash%.json",
     "providers": {
         "fastly/magento2": {
-            "sha256": "5e398ea132c7bf09f1cc8679041660a3d2fc6e4d3fd6686df424ddded78d792b"
+            "sha256": "d882edb4cd07bf9ab1b344c9898b7426b62b979bbcaefe1a082f84e8223158a3"
         },
         "mageplaza/magento-2-product-slider": {
             "sha256": "1fa6e6ae2def7293e457e14f48dfcc41cd20b1fa59e418ba194ed2b8761bdb30"
@@ -15,16 +15,19 @@
             "sha256": "53fe77e297394f3d046d1978d7ff73c8a5783e98282ae48334a6e7ca97434b65"
         },
         "mageplaza/module-gdpr": {
-            "sha256": "e5e208595879b83fbabb708de2cc4464e7aac09810d55d77a752cdc2672409ec"
+            "sha256": "7e370be8546367d24c5c42d5a3ee8f0cf3d1d21df06c4efa39446d6cfae73e97"
         },
         "mageplaza/module-quick-flush-cache": {
-            "sha256": "0bc7da7a26402214513603113e9014a5653037bd129ec2653ffb654674e19045"
+            "sha256": "a925e378d9d68be4b8694cffefc7c22fadb40a12128af5ee37da956394f6a562"
         },
         "mageplaza/module-reports": {
-            "sha256": "cba0a7617c81f798b34fe30970d20a4b5f661c3d3860c114f3f81c7daf0e62e6"
+            "sha256": "8b65abdb19f0f5f3e37e8e2f53b0723e78b6f29212983fffa422cdf78c77d378"
+        },
+        "msp/devtools": {
+            "sha256": "53354553f72b79753ba572188fb249dbf59413f0594ae996da2710583f27877b"
         },
         "swissup/module-core": {
-            "sha256": "f574dbe800e1c7857e3b0239c8b8d934c592f81dfb868c8b1ad44b7960932f4b"
+            "sha256": "2701476f0ece36aa9420c4fe66f809242e92c9ace6b068a7d42cecd238eee19a"
         }
     },
     "metadata-url": "/vcsToComposer/html/p2/%package%.json",
@@ -36,6 +39,7 @@
         "mageplaza/module-gdpr",
         "mageplaza/module-quick-flush-cache",
         "mageplaza/module-reports",
+        "msp/devtools",
         "swissup/module-core"
     ]
 }

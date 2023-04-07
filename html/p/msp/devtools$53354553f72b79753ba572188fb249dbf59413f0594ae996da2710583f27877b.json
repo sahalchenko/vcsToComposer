@@ -1,0 +1,1555 @@
+{
+    "packages": {
+        "msp/devtools": {
+            "0.1.0": {
+                "name": "msp/devtools",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "57e44455c03df16439f20388fe9f81781622852b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/57e44455c03df16439f20388fe9f81781622852b",
+                    "reference": "57e44455c03df16439f20388fe9f81781622852b",
+                    "shasum": ""
+                },
+                "require": {
+                    "electrolinux/phpquery": "*",
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2016-08-10T10:59:17+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.1.0",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 357
+            },
+            "0.1.1": {
+                "name": "msp/devtools",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "cee0ab325649f99b31d7aac35bd7cddc980e1772"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/cee0ab325649f99b31d7aac35bd7cddc980e1772",
+                    "reference": "cee0ab325649f99b31d7aac35bd7cddc980e1772",
+                    "shasum": ""
+                },
+                "require": {
+                    "electrolinux/phpquery": "*",
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2016-08-11T15:02:42+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.1.1",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 358
+            },
+            "0.1.2": {
+                "name": "msp/devtools",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "3823dd1b6c08398b124ed1768dd36faf5bef129f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/3823dd1b6c08398b124ed1768dd36faf5bef129f",
+                    "reference": "3823dd1b6c08398b124ed1768dd36faf5bef129f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2016-08-12T10:26:58+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.1.2",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 359
+            },
+            "0.1.3": {
+                "name": "msp/devtools",
+                "version": "0.1.3",
+                "version_normalized": "0.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "a35ab290f5149be754ee5216c026d415745b5995"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/a35ab290f5149be754ee5216c026d415745b5995",
+                    "reference": "a35ab290f5149be754ee5216c026d415745b5995",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2016-08-18T17:05:37+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.1.3",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 360
+            },
+            "0.1.4": {
+                "name": "msp/devtools",
+                "version": "0.1.4",
+                "version_normalized": "0.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "937440176763cc7c808da9368ba2b39999fda9f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/937440176763cc7c808da9368ba2b39999fda9f3",
+                    "reference": "937440176763cc7c808da9368ba2b39999fda9f3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2016-09-21T14:25:22+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.1.4",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 361
+            },
+            "0.1.5": {
+                "name": "msp/devtools",
+                "version": "0.1.5",
+                "version_normalized": "0.1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "3e015a14f2ce010419216d42ff46fd84acfe6502"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/3e015a14f2ce010419216d42ff46fd84acfe6502",
+                    "reference": "3e015a14f2ce010419216d42ff46fd84acfe6502",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2016-10-24T10:36:35+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.1.5",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 362
+            },
+            "0.1.6": {
+                "name": "msp/devtools",
+                "version": "0.1.6",
+                "version_normalized": "0.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "94b5c682f48945e71e92e6645c977278c59c8bab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/94b5c682f48945e71e92e6645c977278c59c8bab",
+                    "reference": "94b5c682f48945e71e92e6645c977278c59c8bab",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2016-12-06T10:21:23+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.1.6",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 363
+            },
+            "0.2.0": {
+                "name": "msp/devtools",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "7e202a0b798d84c86b4bd44b7cb698770b44f0fd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/7e202a0b798d84c86b4bd44b7cb698770b44f0fd",
+                    "reference": "7e202a0b798d84c86b4bd44b7cb698770b44f0fd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2017-02-03T12:03:03+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.2.0",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 364
+            },
+            "0.2.1": {
+                "name": "msp/devtools",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "9267d7b17f74ec319188fe0a1e6a1e36df5d4ba3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/9267d7b17f74ec319188fe0a1e6a1e36df5d4ba3",
+                    "reference": "9267d7b17f74ec319188fe0a1e6a1e36df5d4ba3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2017-02-15T14:15:09+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.2.1",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 365
+            },
+            "0.2.2": {
+                "name": "msp/devtools",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "1216942d86487b78d404e3e6042eb2a2cb3b4a3f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/1216942d86487b78d404e3e6042eb2a2cb3b4a3f",
+                    "reference": "1216942d86487b78d404e3e6042eb2a2cb3b4a3f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2017-02-15T16:00:16+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.2.2",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 366
+            },
+            "0.2.3": {
+                "name": "msp/devtools",
+                "version": "0.2.3",
+                "version_normalized": "0.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "d387baca51671bc288bea8169541c36330871fcc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/d387baca51671bc288bea8169541c36330871fcc",
+                    "reference": "d387baca51671bc288bea8169541c36330871fcc",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2017-02-22T16:37:30+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.2.3",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 367
+            },
+            "0.2.4": {
+                "name": "msp/devtools",
+                "version": "0.2.4",
+                "version_normalized": "0.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "b03f857a42ce697f8835bb51700f3653fd4ace28"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/b03f857a42ce697f8835bb51700f3653fd4ace28",
+                    "reference": "b03f857a42ce697f8835bb51700f3653fd4ace28",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2017-02-28T16:48:08+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/v0.2.4",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 368
+            },
+            "1.0.0": {
+                "name": "msp/devtools",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "c1cda1b3c041072626a406422c1a92d64c1c2e50"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/c1cda1b3c041072626a406422c1a92d64c1c2e50",
+                    "reference": "c1cda1b3c041072626a406422c1a92d64c1c2e50",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~7.0.0"
+                },
+                "time": "2017-05-31T21:46:31+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.0.0",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 369
+            },
+            "1.0.1": {
+                "name": "msp/devtools",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "d73afbf914eaa29ccf6186258dfbe3d822eef818"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/d73afbf914eaa29ccf6186258dfbe3d822eef818",
+                    "reference": "d73afbf914eaa29ccf6186258dfbe3d822eef818",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~7.0.0"
+                },
+                "time": "2017-06-11T15:25:56+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.0.1",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 370
+            },
+            "1.1.0": {
+                "name": "msp/devtools",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "a14927b9a4f19d9200d34d8ebfecf5ea94a7971c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/a14927b9a4f19d9200d34d8ebfecf5ea94a7971c",
+                    "reference": "a14927b9a4f19d9200d34d8ebfecf5ea94a7971c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~7.0.0"
+                },
+                "time": "2017-07-11T13:07:17+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.1.0",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 371
+            },
+            "1.2.0": {
+                "name": "msp/devtools",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "acec2d86603fe77995151a3d18c555dac646f9c7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/acec2d86603fe77995151a3d18c555dac646f9c7",
+                    "reference": "acec2d86603fe77995151a3d18c555dac646f9c7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~7.0.0"
+                },
+                "time": "2017-07-13T08:35:24+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.0",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 372
+            },
+            "1.2.1": {
+                "name": "msp/devtools",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "ec23c3786f7e8dc5ee0226c45f187d8bcea19796"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/ec23c3786f7e8dc5ee0226c45f187d8bcea19796",
+                    "reference": "ec23c3786f7e8dc5ee0226c45f187d8bcea19796",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~7.0.0"
+                },
+                "time": "2017-07-13T16:01:21+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.1",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 373
+            },
+            "1.2.10": {
+                "name": "msp/devtools",
+                "version": "1.2.10",
+                "version_normalized": "1.2.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "0b2a09c2cf7f207d6ed132f26b18e7f7b7805f1a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/0b2a09c2cf7f207d6ed132f26b18e7f7b7805f1a",
+                    "reference": "0b2a09c2cf7f207d6ed132f26b18e7f7b7805f1a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.0|^7.1"
+                },
+                "time": "2018-01-23T13:18:59+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.10",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 374
+            },
+            "1.2.11": {
+                "name": "msp/devtools",
+                "version": "1.2.11",
+                "version_normalized": "1.2.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "125f2020d672ab0dc378bc9cc1a3a747d33a066e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/125f2020d672ab0dc378bc9cc1a3a747d33a066e",
+                    "reference": "125f2020d672ab0dc378bc9cc1a3a747d33a066e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.0|^7.1"
+                },
+                "time": "2018-01-25T11:13:44+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.11",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 375
+            },
+            "1.2.12": {
+                "name": "msp/devtools",
+                "version": "1.2.12",
+                "version_normalized": "1.2.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "fe4f84e86c191f482d7b23e08497131c23c40c7a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/fe4f84e86c191f482d7b23e08497131c23c40c7a",
+                    "reference": "fe4f84e86c191f482d7b23e08497131c23c40c7a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.0|^7.1"
+                },
+                "time": "2018-01-25T11:38:31+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.12",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 376
+            },
+            "1.2.13": {
+                "name": "msp/devtools",
+                "version": "1.2.13",
+                "version_normalized": "1.2.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "0ef63ec17aff74dd055b26bf4e33d850ab0a3832"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/0ef63ec17aff74dd055b26bf4e33d850ab0a3832",
+                    "reference": "0ef63ec17aff74dd055b26bf4e33d850ab0a3832",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.0|^7.1"
+                },
+                "time": "2018-05-18T14:58:03+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.13",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 377
+            },
+            "1.2.14": {
+                "name": "msp/devtools",
+                "version": "1.2.14",
+                "version_normalized": "1.2.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "d52341ab8d6308f6db63aca039fc09ccdbfc6d1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/d52341ab8d6308f6db63aca039fc09ccdbfc6d1d",
+                    "reference": "d52341ab8d6308f6db63aca039fc09ccdbfc6d1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.0|^7.1"
+                },
+                "time": "2018-05-18T15:24:58+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.14",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 378
+            },
+            "1.2.15": {
+                "name": "msp/devtools",
+                "version": "1.2.15",
+                "version_normalized": "1.2.15.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "aa4112d295840aed73d36031d8c4bf31ae660e40"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/aa4112d295840aed73d36031d8c4bf31ae660e40",
+                    "reference": "aa4112d295840aed73d36031d8c4bf31ae660e40",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.0|^7.1"
+                },
+                "time": "2021-09-01T16:14:18+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.15",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 379
+            },
+            "1.2.16": {
+                "name": "msp/devtools",
+                "version": "1.2.16",
+                "version_normalized": "1.2.16.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "32e0bcb379a10f1434a5a5178b6bc51c20d27916"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/32e0bcb379a10f1434a5a5178b6bc51c20d27916",
+                    "reference": "32e0bcb379a10f1434a5a5178b6bc51c20d27916",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.4|^8.1"
+                },
+                "time": "2022-05-26T09:30:55+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.16",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 380
+            },
+            "1.2.17": {
+                "name": "msp/devtools",
+                "version": "1.2.17",
+                "version_normalized": "1.2.17.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "306de1b76aecd8fd66bf32139dce2c09386c472c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/306de1b76aecd8fd66bf32139dce2c09386c472c",
+                    "reference": "306de1b76aecd8fd66bf32139dce2c09386c472c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.4|^8.1"
+                },
+                "time": "2023-03-15T10:33:59+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.17",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 381
+            },
+            "1.2.2": {
+                "name": "msp/devtools",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "248f83bf8309c8f3021ac5a1e13a780483ce6df9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/248f83bf8309c8f3021ac5a1e13a780483ce6df9",
+                    "reference": "248f83bf8309c8f3021ac5a1e13a780483ce6df9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~7.0.0"
+                },
+                "time": "2017-07-13T16:37:17+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.2",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 382
+            },
+            "1.2.3": {
+                "name": "msp/devtools",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "4a293e1ca0350fd7e1f2eb9b79c08fa0205c8002"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/4a293e1ca0350fd7e1f2eb9b79c08fa0205c8002",
+                    "reference": "4a293e1ca0350fd7e1f2eb9b79c08fa0205c8002",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~7.0.0"
+                },
+                "time": "2017-07-18T18:50:56+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.3",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 383
+            },
+            "1.2.4": {
+                "name": "msp/devtools",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "f1703e75e940b9a4189ee21e383cc1fb46aefe32"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/f1703e75e940b9a4189ee21e383cc1fb46aefe32",
+                    "reference": "f1703e75e940b9a4189ee21e383cc1fb46aefe32",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~7.0.0"
+                },
+                "time": "2017-07-27T13:48:50+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.4",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 384
+            },
+            "1.2.5": {
+                "name": "msp/devtools",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "4a1fc475fcc8f8db6ea25ba8fef49245292aa223"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/4a1fc475fcc8f8db6ea25ba8fef49245292aa223",
+                    "reference": "4a1fc475fcc8f8db6ea25ba8fef49245292aa223",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "~7.0.0"
+                },
+                "time": "2017-07-31T09:58:22+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.5",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 385
+            },
+            "1.2.6": {
+                "name": "msp/devtools",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "d5495baf5634e873b78188b9f9e3b62b9b6c7f57"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/d5495baf5634e873b78188b9f9e3b62b9b6c7f57",
+                    "reference": "d5495baf5634e873b78188b9f9e3b62b9b6c7f57",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.0|^7.1"
+                },
+                "time": "2017-08-28T10:30:05+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.6",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 386
+            },
+            "1.2.7": {
+                "name": "msp/devtools",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "afbb6f48abccd4ca740b37b4d7a3dd5db58542c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/afbb6f48abccd4ca740b37b4d7a3dd5db58542c6",
+                    "reference": "afbb6f48abccd4ca740b37b4d7a3dd5db58542c6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.0|^7.1"
+                },
+                "time": "2017-10-09T13:54:43+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.7",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 387
+            },
+            "1.2.8": {
+                "name": "msp/devtools",
+                "version": "1.2.8",
+                "version_normalized": "1.2.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "2bd0fe82fdc9ffa7c61a89d5ef22a916e90597cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/2bd0fe82fdc9ffa7c61a89d5ef22a916e90597cf",
+                    "reference": "2bd0fe82fdc9ffa7c61a89d5ef22a916e90597cf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.0|^7.1"
+                },
+                "time": "2017-11-03T15:26:22+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.8",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 388
+            },
+            "1.2.9": {
+                "name": "msp/devtools",
+                "version": "1.2.9",
+                "version_normalized": "1.2.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "6afc00682d45bae3c8392ce9f94d45b80eaa0031"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/6afc00682d45bae3c8392ce9f94d45b80eaa0031",
+                    "reference": "6afc00682d45bae3c8392ce9f94d45b80eaa0031",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.0|^7.1"
+                },
+                "time": "2017-11-20T14:25:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.9",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 389
+            },
+            "dev-master": {
+                "name": "msp/devtools",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "306de1b76aecd8fd66bf32139dce2c09386c472c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/306de1b76aecd8fd66bf32139dce2c09386c472c",
+                    "reference": "306de1b76aecd8fd66bf32139dce2c09386c472c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.4|^8.1"
+                },
+                "time": "2023-03-15T10:33:59+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.17",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 390
+            }
+        }
+    }
+}

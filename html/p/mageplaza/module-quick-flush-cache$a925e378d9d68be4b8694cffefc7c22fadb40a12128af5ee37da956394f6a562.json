@@ -45,7 +45,7 @@
                     "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/v1.0.0"
                 },
                 "abandoned": true,
-                "uid": 322
+                "uid": 323
             },
             "2.3.x-dev": {
                 "name": "mageplaza/module-quick-flush-cache",
@@ -91,7 +91,7 @@
                     "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/master"
                 },
                 "abandoned": true,
-                "uid": 323
+                "uid": 324
             },
             "2.4.x-dev": {
                 "name": "mageplaza/module-quick-flush-cache",
@@ -138,7 +138,7 @@
                     "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/2.4"
                 },
                 "abandoned": true,
-                "uid": 324
+                "uid": 325
             },
             "4.0.0": {
                 "name": "mageplaza/module-quick-flush-cache",
@@ -184,7 +184,7 @@
                     "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/v4.0.0"
                 },
                 "abandoned": true,
-                "uid": 325
+                "uid": 326
             },
             "dev-2.3-develop": {
                 "name": "mageplaza/module-quick-flush-cache",
@@ -230,7 +230,7 @@
                     "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/master"
                 },
                 "abandoned": true,
-                "uid": 326
+                "uid": 327
             },
             "dev-2.4-develop": {
                 "name": "mageplaza/module-quick-flush-cache",
@@ -276,7 +276,7 @@
                     "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/master"
                 },
                 "abandoned": true,
-                "uid": 327
+                "uid": 328
             },
             "dev-develop": {
                 "name": "mageplaza/module-quick-flush-cache",
@@ -322,7 +322,7 @@
                     "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/develop"
                 },
                 "abandoned": true,
-                "uid": 328
+                "uid": 329
             },
             "dev-master": {
                 "name": "mageplaza/module-quick-flush-cache",
@@ -368,7 +368,7 @@
                     "source": "https://github.com/mageplaza/magento-2-quick-flush-cache/tree/master"
                 },
                 "abandoned": true,
-                "uid": 329
+                "uid": 330
             }
         }
     }

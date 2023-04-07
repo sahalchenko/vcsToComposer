@@ -1,0 +1,56 @@
+{
+    "packages": {
+        "msp/devtools": [
+            {
+                "name": "msp/devtools",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magespecialist/m2-MSP_DevTools.git",
+                    "reference": "306de1b76aecd8fd66bf32139dce2c09386c472c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magespecialist/m2-MSP_DevTools/zipball/306de1b76aecd8fd66bf32139dce2c09386c472c",
+                    "reference": "306de1b76aecd8fd66bf32139dce2c09386c472c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "msp/common": "*",
+                    "php": "^7.4|^8.1"
+                },
+                "time": "2023-03-15T10:33:59+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\DevTools\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    },
+                    {
+                        "name": "Lorenzo Stramaccia",
+                        "email": "lorenzo.stramaccia@magespecialist.it"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/magespecialist/m2-MSP_DevTools/tree/1.2.17",
+                    "issues": "https://github.com/magespecialist/m2-MSP_DevTools/issues"
+                },
+                "uid": 390
+            }
+        ]
+    }
+}

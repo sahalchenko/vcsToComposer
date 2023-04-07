@@ -403,12 +403,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/fastly/fastly-magento2.git",
-                    "reference": "ef9a078a92f0d17cfd9f9f98944fa113243715fe"
+                    "reference": "55d0f6e84f4ed51d6568ed93618620ee26308049"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/fastly/fastly-magento2/zipball/ef9a078a92f0d17cfd9f9f98944fa113243715fe",
-                    "reference": "ef9a078a92f0d17cfd9f9f98944fa113243715fe",
+                    "url": "https://api.github.com/repos/fastly/fastly-magento2/zipball/55d0f6e84f4ed51d6568ed93618620ee26308049",
+                    "reference": "55d0f6e84f4ed51d6568ed93618620ee26308049",
                     "shasum": ""
                 },
                 "require": {
@@ -421,7 +421,7 @@
                     "php": "~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0",
                     "zordius/lightncandy": "^1.2"
                 },
-                "time": "2023-03-15T15:35:15+00:00",
+                "time": "2023-03-27T03:31:48+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {

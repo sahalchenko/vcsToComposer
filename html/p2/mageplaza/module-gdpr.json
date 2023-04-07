@@ -644,6 +644,52 @@
                     "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
                 },
                 "uid": 317
+            },
+            {
+                "name": "mageplaza/module-gdpr",
+                "version": "4.2.3",
+                "version_normalized": "4.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageplaza/magento-2-gdpr.git",
+                    "reference": "ac42095ca7c4fc093c8c6c7f34a17cced1668df1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageplaza/magento-2-gdpr/zipball/ac42095ca7c4fc093c8c6c7f34a17cced1668df1",
+                    "reference": "ac42095ca7c4fc093c8c6c7f34a17cced1668df1",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.5.2"
+                },
+                "time": "2023-04-05T07:32:30+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Gdpr\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 GDPR Extensions",
+                "support": {
+                    "source": "https://github.com/mageplaza/magento-2-gdpr/tree/v4.2.3",
+                    "issues": "https://github.com/mageplaza/magento-2-gdpr/issues"
+                },
+                "uid": 318
             }
         ]
     }
