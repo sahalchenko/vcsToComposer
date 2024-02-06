@@ -8,13 +8,21 @@ ENV GIT_TOKEN ${GIT_TOKEN}
 ENV GIT_REPOSITORY  ${GIT_REPOSITORY}
 ENV ZIP_REPOSITORY  ${ZIP_REPOSITORY}
 
+# Обновление и установка необходимых пакетов, включая unzip и git
+# Добавление установки расширения zip для PHP
 RUN apt-get update && \
-    apt-get install -y unzip git
+    apt-get install -y unzip git libzip-dev && \
+    docker-php-ext-install zip
 
 WORKDIR /app
 
+# Установка Composer
 RUN curl -s https://getcomposer.org/installer | php && mv composer.phar /usr/local/bin/composer
+
+# Разрешение работы Composer от root и установка satis
+ENV COMPOSER_ALLOW_SUPERUSER=1
 RUN composer create-project composer/satis satis dev-main
+
 ENV PATH "$PATH:/app/satis/bin"
 
 COPY ./entrypoint.sh /app/entrypoint.sh
