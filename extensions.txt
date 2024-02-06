@@ -7,3 +7,4 @@ https://github.com/mageplaza/magento-2-email-attachments
 https://github.com/swissup/module-core
 https://github.com/fastly/fastly-magento2
 https://github.com/magespecialist/m2-MSP_DevTools
+https://github.com/mageplaza/magento-2-seo
